@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5be6f0e62215b7b4",
+        "id": "50a7925835000e57",
         "type": "tabs",
         "children": [
           {
-            "id": "17ad8efb4f05b871",
+            "id": "71ca95d147c36ab1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17ad8efb4f05b871",
+  "active": "71ca95d147c36ab1",
   "lastOpenFiles": [
     "Testando.md",
     "resumos-terceirao/README.md",
