@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+                "file": "historia/frente 2 - resto do mundo/aula 2/introducao a historia.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+                "file": "historia/frente 2 - resto do mundo/aula 2/introducao a historia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+                "file": "historia/frente 2 - resto do mundo/aula 2/introducao a historia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md"
+                "file": "historia/frente 2 - resto do mundo/aula 2/introducao a historia.md"
               }
             }
           },
@@ -161,8 +160,12 @@
   },
   "active": "6b9248a27ab01711",
   "lastOpenFiles": [
-    "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
+    "historia/frente 1 - brasil/aula 1/Brasil pre colonial (1500-1530).md",
+    "historia/frente 2 - resto do mundo/aula 2/introducao a historia.md",
     "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+    "historia/frente 2 - resto do mundo/aula 2",
+    "historia/frente 2 - resto do mundo",
+    "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
     "historia/frente 1 - brasil/Aula 1.md",
     "historia/frente 1 - brasil/aula 1",
     "Testando.md",

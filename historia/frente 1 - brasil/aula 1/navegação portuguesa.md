@@ -1,8 +1,8 @@
 Portugal formado antes de todos os outros paises, com ajuda da burguesia, em posição vantajosa para navegações
 
-Decidiram ir ao redor da áfrica uma vez que o caminho a pé seria lento e estava bloqueado por constantinopla e pelo inmério turco otomano, e o caminho pelo mediterrâneo estava sob controle da burguesia italiana
+Decidiram ir ao redor da áfrica (periplo africano) uma vez que o caminho a pé seria lento e estava bloqueado por constantinopla e pelo inmério turco otomano, e o caminho pelo mediterrâneo estava sob controle da burguesia italiana
 
-Escola de Sabres: não se sabe se foi real ou não
+Escola de Sagres: não se sabe se foi real ou não
 
 marco inicial: chegada em ceuta
 Foram sendo fundadas feitorias ao redor da costa da África para ajudar as navegações portuguesas e garantir que outras navegações não passassem
