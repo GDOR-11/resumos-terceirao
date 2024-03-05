@@ -21,4 +21,6 @@ Após descobrirem que estavam na américa, espanha e portugal entraram em confli
 Igreja não quer guerra, então propõe soluções: Bula Inter Coetera recusada, tratado de Tordesilhas aceito. (isso já criou conflito entre a Igreja e outros países)
 
 
-Pedro Álvares Cabral "descobre" as américas. Falar que descobriu
+Pedro Álvares Cabral "descobre" as américas. Falar que descobriu traz duas vantajens:
+- historia heroica
+- justificacao divina para dominar o territorio
