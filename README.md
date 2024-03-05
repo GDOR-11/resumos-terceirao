@@ -1,2 +1,2 @@
 # resumos-terceirao
-ainda vendo como que isso vai funcionar
+lugar q eu coloco meus resumos pra editar facil no PC e acessar automaticamente no celular

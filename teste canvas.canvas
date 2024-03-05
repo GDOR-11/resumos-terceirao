@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"e776154a2c004927","type":"text","text":"teste teste","x":-539,"y":-77,"width":250,"height":60},
-		{"id":"50b0705f188fca13","type":"file","file":"Testando.md","x":-276,"y":108,"width":236,"height":212}
-	],
-	"edges":[
-		{"id":"ae03fd3f3b529005","fromNode":"e776154a2c004927","fromSide":"bottom","toNode":"50b0705f188fca13","toSide":"top"}
-	]
-}
