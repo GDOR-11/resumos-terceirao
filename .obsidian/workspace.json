@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "navegação portuguesa.md",
+                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "navegação portuguesa.md",
+                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "navegação portuguesa.md",
+                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "navegação portuguesa.md"
+                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md"
               }
             }
           },
@@ -174,10 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4ee7fe6fb267ba8",
+  "active": "0675dbb1983939bf",
   "lastOpenFiles": [
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
-    "navegação portuguesa.md",
+    "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
     "historia/frente 1 - brasil/Aula 1.md",
     "historia/frente 1 - brasil/aula 1",
     "Testando.md",
