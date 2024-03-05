@@ -1,6 +1,6 @@
 # Caracteristias comuns
 - teocracia e estratificação social
-- escravidão e servidão coletiva
+- escravidão e **servidão coletiva**
 - dependentes das cheias regulares dos rios
 
 
