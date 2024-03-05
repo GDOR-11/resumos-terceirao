@@ -10,7 +10,6 @@ ocupação por volta de 10000 A.C.
 Inicialmente, foram se formando nomos, que foram entrando em guerra e se anexando até que restou alto (chapeu pontudo) e baixo (chapeu vermelho) egito, que entraram em guerra e foram unificados sob domínio do alto egito
 
 Politeismo antropozoomorfico
-uma piramide por farao (opcionalmente outras menores para membros da familia)
 
 "O Egito é uma dádiva do Nilo"
 	cheias regulares, canais de irrigação
