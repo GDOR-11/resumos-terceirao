@@ -11,15 +11,31 @@
             "id": "6b9248a27ab01711",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
+                "viewState": {
+                  "x": 351.5400000000005,
+                  "y": 9.300000000000026,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "d4ee7fe6fb267ba8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Testando.md",
+                "file": "navegação portuguesa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testando.md",
+                "file": "navegação portuguesa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testando.md",
+                "file": "navegação portuguesa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testando.md"
+                "file": "navegação portuguesa.md"
               }
             }
           },
@@ -158,11 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b9248a27ab01711",
+  "active": "d4ee7fe6fb267ba8",
   "lastOpenFiles": [
+    "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
+    "navegação portuguesa.md",
+    "historia/frente 1 - brasil/Aula 1.md",
+    "historia/frente 1 - brasil/aula 1",
+    "Testando.md",
+    "historia/frente 1 - brasil/aula 1",
+    "historia/frente 1 - brasil",
+    "historia",
     "hbjhb.md",
     "teste canvas.canvas",
-    "Testando.md",
     "conflict-files-obsidian-git.md",
     "resumos-terceirao/README.md",
     "resumos-terceirao/LICENSE",

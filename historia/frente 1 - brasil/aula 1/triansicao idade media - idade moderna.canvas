@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"e67901d819227911","x":-167,"y":-105,"width":250,"height":60,"type":"text","text":"Feudos (estamentais)"},
+		{"id":"9cc2ff57ce15eb1c","x":-167,"y":28,"width":250,"height":60,"type":"text","text":"cruzadas"},
+		{"id":"4a37209e181c4496","x":-167,"y":162,"width":250,"height":60,"type":"text","text":"renascimento urbano e comercial"},
+		{"id":"1b889cb24dac1cd9","x":160,"y":162,"width":294,"height":60,"type":"text","text":"enfraquecimento da nobreza, ascensão da burguesia"},
+		{"id":"050bf0ca8769acd0","x":182,"y":6,"width":250,"height":104,"type":"text","text":"aliança rei-burguesia e formação dos estados nacionais"},
+		{"id":"7d1dff82d0a64af1","x":513,"y":28,"width":250,"height":60,"type":"text","text":"expansão marítima"}
+	],
+	"edges":[
+		{"id":"49596ef3bde9721f","fromNode":"e67901d819227911","fromSide":"bottom","toNode":"9cc2ff57ce15eb1c","toSide":"top"},
+		{"id":"3672e5db2d1baa93","fromNode":"9cc2ff57ce15eb1c","fromSide":"bottom","toNode":"4a37209e181c4496","toSide":"top"},
+		{"id":"ae5c712b8847b19f","fromNode":"4a37209e181c4496","fromSide":"right","toNode":"1b889cb24dac1cd9","toSide":"left"},
+		{"id":"6e7ce5051449fcc6","fromNode":"1b889cb24dac1cd9","fromSide":"top","toNode":"050bf0ca8769acd0","toSide":"bottom"},
+		{"id":"74257b67075039b8","fromNode":"050bf0ca8769acd0","fromSide":"right","toNode":"7d1dff82d0a64af1","toSide":"left"},
+		{"id":"cf5d5cf0ac9c5821","fromNode":"1b889cb24dac1cd9","fromSide":"right","toNode":"7d1dff82d0a64af1","toSide":"bottom"}
+	]
+}
