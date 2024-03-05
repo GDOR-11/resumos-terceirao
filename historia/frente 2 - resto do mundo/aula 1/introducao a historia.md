@@ -16,6 +16,6 @@ pre historia         idade antiga           idade media           idade moderna 
 ~~--     -                                                                                                                                                         ~~
 .                        A                               B                              C                                 D
 - a = invencao da escrita
-- b = queda de constantinopla
-- c = renascimento
+- b = queda do imperio romano ocidental
+- c = queda de constantinopla
 - d = revolucao francesa
