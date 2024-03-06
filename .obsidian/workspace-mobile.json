@@ -11,11 +11,14 @@
             "id": "2f78b791e80e73d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
-                "mode": "source",
-                "source": false
+                "file": "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
+                "viewState": {
+                  "x": 315.8092635546705,
+                  "y": 479.61114390693376,
+                  "zoom": -0.5902631708400486
+                }
               }
             }
           }
@@ -97,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+            "file": "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+            "file": "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "historia/frente 1 - brasil/aula 1/navegação portuguesa.md"
+            "file": "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas"
           }
         }
       }
@@ -145,8 +148,8 @@
   },
   "active": "2f78b791e80e73d0",
   "lastOpenFiles": [
-    "historia/frente 2 - resto do mundo/aula 1/introducao a historia.md",
     "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
+    "historia/frente 2 - resto do mundo/aula 1/introducao a historia.md",
     "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
     "historia/frente 2 - resto do mundo/aula 2/pre historia.md",
     "historia/frente 1 - brasil/aula 1/Brasil pre colonial (1500-1530).md",
