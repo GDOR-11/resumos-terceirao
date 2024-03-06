@@ -12,7 +12,7 @@ Em 1498, Vasco da Gama chega às Índias
 
 
 Em 1492, Espanha se unifica (derrota dos árabes e um casamento lá).
-Tratado de **Toledo**: impede que a espanha navegue pela costa africana
+Tratado de **Toledo**: cede a região de 
 
 Cristóvão Colombo propõe à coroa espanhola que dessem a volta na terra para chegar às Índias, e sem outras opções a coroa aceita, dando poucos recursos.
 Em 1492 Colombo chega nas américas pensando estar no oriente asiático.
