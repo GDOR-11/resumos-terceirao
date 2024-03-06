@@ -8,7 +8,7 @@ funcao da historia: entender o presente atraves do passado
 - ## materialismo histórico
 	baseado no marxismo, na luta de classes e no modo de produção
 - ## escola dos annales
-	**Marc Bloch** problematiza o historicismo
+	**Marc Bloch** problematiza o positivismo
 	tudo aquilo produzido pelo homem é fonte historica
 
 # Periodos historicos
