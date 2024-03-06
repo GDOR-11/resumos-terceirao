@@ -24,11 +24,6 @@ Politeismo antropozoomorfico
 	- **Hieratica** e **demotica** para fins administrativos
 	- Hieroglifica para fins religiosos
 
-
-# Hierática e Demótica
-
-
-
 ### Camadas populares
 - camponeses
 - artesãos
