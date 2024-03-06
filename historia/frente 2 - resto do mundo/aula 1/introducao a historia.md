@@ -10,6 +10,7 @@ funcao da historia: entender o presente atraves do passado
 - ## escola dos annales
 	**Marc Bloch** problematiza o positivismo
 	tudo aquilo produzido pelo homem é fonte historica
+	olhar "de baixo"
 
 # Periodos historicos
 pre historia         idade antiga           idade media           idade moderna          idade contemporanea
