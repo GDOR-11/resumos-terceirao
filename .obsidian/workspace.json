@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geografia/frente 2/espaço geográfico.md",
+                "file": "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geografia/frente 2/espaço geográfico.md",
+                "file": "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geografia/frente 2/espaço geográfico.md",
+                "file": "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geografia/frente 2/espaço geográfico.md"
+                "file": "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "4eeec42cd17c0ef9",
   "lastOpenFiles": [
-    "geografia/frente 2/desenvolvimento historico da geografia.md",
     "geografia/frente 2/espaço geográfico.md",
+    "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
+    "geografia/frente 2/desenvolvimento historico da geografia.md",
     "Untitled.md",
     "geografia/frente 2",
     "geografia/frente 1",
