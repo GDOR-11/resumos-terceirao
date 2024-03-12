@@ -26,4 +26,5 @@ maior escala = mais detalhes, menos área
 	- mercator (conforme: preserva forma)
 	- peters (equivalente: preserva área)
 - cônica
-- plana / azimutal (equidistante)
+- plana / azimutal (equidistante: distância ao vértice é preservada)
+- robinson (afilática: não preseva nada)
