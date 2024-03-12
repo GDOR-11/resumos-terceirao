@@ -25,5 +25,9 @@ meridianos mais comuns:
 fuso natural != fuso político
 1 hora = 15 graus
 <-- + cedo ---  agora  --- + tarde -->
+
+LID: linha internacional de data, aproximadamente em 180° longitude
+terça | segunda
+
 Brasil tem fusos horários de -2 a -5
 quando o Brasil usava horário de verão, apenas o centro-sul o adotava
