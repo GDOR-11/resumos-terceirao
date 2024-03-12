@@ -4,6 +4,7 @@ periélio/afélio: específicos para terra-sol
 perigeu/apogeu: qualquer órbita exceto a terra-sol
 
 
+
 latitude = y
 longitude = x
 
@@ -24,3 +25,5 @@ meridianos mais comuns:
 fuso natural != fuso político
 1 hora = 15 graus
 <-- + cedo ---  agora  --- + tarde -->
+Brasil tem fusos horários de -2 a -5
+quando o Brasil usava horário de verão, apenas o centro-sul o adotava
