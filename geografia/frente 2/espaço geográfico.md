@@ -1,0 +1,5 @@
+- paisagem
+- lugar
+- território
+- região
+- redes

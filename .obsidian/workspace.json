@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
+                "file": "geografia/frente 2/espaço geográfico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
+                "file": "geografia/frente 2/espaço geográfico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
+                "file": "geografia/frente 2/espaço geográfico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geografia/frente 2/desenvolvimento historico da geografia.md"
+                "file": "geografia/frente 2/espaço geográfico.md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "4eeec42cd17c0ef9",
   "lastOpenFiles": [
-    "Untitled.md",
     "geografia/frente 2/desenvolvimento historico da geografia.md",
+    "geografia/frente 2/espaço geográfico.md",
+    "Untitled.md",
     "geografia/frente 2",
     "geografia/frente 1",
     "geografia",
