@@ -18,3 +18,9 @@ latitude alta, média ou baixa são classificadas conforme quantos paralelos exi
 meridianos mais comuns:
 - greenwich
 - contra meridiano (180º)
+
+
+
+fuso natural != fuso político
+1 hora = 15 graus
+<-- + cedo ---  agora  --- + tarde -->
