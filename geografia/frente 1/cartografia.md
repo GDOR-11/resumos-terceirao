@@ -20,11 +20,15 @@ escala gráfica: indicativo no meio do mapa
 maior escala = mais detalhes, menos área
 
 
-
 ## Projeções
 - cilíndrica
 	- mercator (conforme: preserva forma)
 	- peters (equivalente: preserva área)
 - cônica
 - plana / azimutal (equidistante: distância ao vértice é preservada)
-- robinson (afilática: não preseva nada)
+- de robinson (afilática: não preseva nada)
+
+
+#### Sensoriamento remoto
+- sensor ativo
+- sensor passivo
