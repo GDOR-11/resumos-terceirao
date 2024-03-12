@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
+                "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
+            "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
+            "file": "geografia/frente 2/desenvolvimento historico da geografia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md"
+            "file": "geografia/frente 2/desenvolvimento historico da geografia.md"
           }
         }
       }
@@ -143,10 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a3a26e8add63bf",
+  "active": "2f78b791e80e73d0",
   "lastOpenFiles": [
-    "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
     "geografia/frente 1/cartografia.md",
+    "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
+    "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
     "geografia/frente 2/desenvolvimento historico da geografia.md",
     "geografia/frente 2/espaço geográfico.md",
     "/geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
@@ -164,7 +165,6 @@
     "historia/frente 1 - brasil/aula 1/Brasil pre colonial (1500-1530).md",
     "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
-    "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
     "/historia/frente 1 - brasil/aula 1/navegação portuguesa.md"
   ]
 }
