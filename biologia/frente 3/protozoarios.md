@@ -8,5 +8,8 @@
 - esporozoários
 
 ## Reprodução
-- bipartição
-- esquizogonia
+- assexuada
+	- bipartição
+	- esquizogonia (divisão repetida do núcleo, seguida de divisão do citoplasma)
+- sexuada
+
