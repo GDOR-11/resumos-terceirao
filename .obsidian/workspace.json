@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologia/frente 3/protozoarios.md",
+                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologia/frente 3/protozoarios.md",
+                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologia/frente 3/protozoarios.md",
+                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologia/frente 3/protozoarios.md"
+                "file": "biologia/frente 3/parasitoses/Leishmaniose.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "68abc2f18e2e7f11",
   "lastOpenFiles": [
-    "geografia/frente 1/cartografia.md",
+    "biologia/frente 3/parasitoses/Amebíase.md",
+    "biologia/frente 3/parasitoses/Leishmaniose.md",
     "biologia/frente 3/protozoarios.md",
+    "biologia/frente 3/parasitoses",
+    "geografia/frente 1/cartografia.md",
     "Untitled",
     "p",
     "biologia/frente 3",
@@ -185,7 +188,6 @@
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
     "historia/frente 2 - resto do mundo/aula 3",
     "historia/frente 2 - resto do mundo/aula 2",
-    "historia/frente 2 - resto do mundo/aula 1",
     "historia/frente 1 - brasil/Aula 1.md",
     "conflict-files-obsidian-git.md",
     "resumos-terceirao/README.md"
