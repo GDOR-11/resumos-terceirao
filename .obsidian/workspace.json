@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4eeec42cd17c0ef9",
+            "id": "68abc2f18e2e7f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "geografia/frente 1/cartografia.md",
+                "file": "biologia/frente 3/protozoarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geografia/frente 1/cartografia.md",
+                "file": "biologia/frente 3/protozoarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geografia/frente 1/cartografia.md",
+                "file": "biologia/frente 3/protozoarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geografia/frente 1/cartografia.md"
+                "file": "biologia/frente 3/protozoarios.md"
               }
             }
           },
@@ -158,13 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eeec42cd17c0ef9",
+  "active": "68abc2f18e2e7f11",
   "lastOpenFiles": [
-    "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
     "geografia/frente 1/cartografia.md",
+    "biologia/frente 3/protozoarios.md",
+    "Untitled",
+    "p",
+    "biologia/frente 3",
+    "biologia",
+    "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
     "geografia/frente 2/espaço geográfico.md",
     "geografia/frente 2/desenvolvimento historico da geografia.md",
-    "Untitled.md",
     "geografia/frente 2",
     "geografia/frente 1",
     "geografia",
@@ -182,11 +186,7 @@
     "historia/frente 2 - resto do mundo/aula 3",
     "historia/frente 2 - resto do mundo/aula 2",
     "historia/frente 2 - resto do mundo/aula 1",
-    "historia/frente 2 - resto do mundo",
     "historia/frente 1 - brasil/Aula 1.md",
-    "historia/frente 1 - brasil/aula 1",
-    "historia/frente 1 - brasil/aula 1",
-    "historia/frente 1 - brasil",
     "conflict-files-obsidian-git.md",
     "resumos-terceirao/README.md"
   ]
