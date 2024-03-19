@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
+                "file": "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
+                "file": "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Leishmaniose.md",
+                "file": "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Leishmaniose.md"
+                "file": "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "68abc2f18e2e7f11",
   "lastOpenFiles": [
-    "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 3/parasitoses/Leishmaniose.md",
+    "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
+    "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 3/protozoarios.md",
     "biologia/frente 3/parasitoses",
     "geografia/frente 1/cartografia.md",
