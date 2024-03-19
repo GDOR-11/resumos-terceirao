@@ -4,7 +4,7 @@
 ### separados em:
 - Sarcodíneos
 - Ciliados
-- (Zoo)mastigógoros / flagelados
+- (Zoo)mastigóforos / flagelados
 - esporozoários
 
 ## Reprodução
