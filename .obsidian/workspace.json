@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Outras protozooses humanas.md",
+                "file": "biologia/frente 3/parasitoses/Amebíase.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "22cac2bbb9e0ac1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Outras protozooses humanas.md",
+                "file": "biologia/frente 3/parasitoses/Amebíase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Outras protozooses humanas.md",
+                "file": "biologia/frente 3/parasitoses/Amebíase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Outras protozooses humanas.md"
+                "file": "biologia/frente 3/parasitoses/Amebíase.md"
               }
             }
           },
@@ -158,18 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68abc2f18e2e7f11",
+  "active": "22cac2bbb9e0ac1a",
   "lastOpenFiles": [
+    "biologia/frente 1/composição dos seres vivos/Água.md",
+    "biologia/frente 1/composição dos seres vivos/Lipídios.md",
+    "biologia/frente 1/composição dos seres vivos/Carboidratos ou Glicídios.md",
+    "biologia/frente 1/composição dos seres vivos/Sais Minerais.md",
+    "biologia/frente 3/parasitoses/Outras protozooses humanas.md",
     "biologia/frente 3/parasitoses/Malária.md",
     "biologia/frente 3/parasitoses/Leishmaniose.md",
     "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
     "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 3/protozoarios.md",
-    "biologia/frente 1/composição dos seres vivos/Lipídios.md",
-    "biologia/frente 1/composição dos seres vivos/Carboidratos ou Glicídios.md",
-    "biologia/frente 1/composição dos seres vivos/Sais Minerais.md",
-    "biologia/frente 1/composição dos seres vivos/Água.md",
-    "biologia/frente 3/parasitoses/Outras protozooses humanas.md",
     "biologia/frente 1/composição dos seres vivos",
     "biologia/frente 1",
     "biologia/frente 3/parasitoses",
