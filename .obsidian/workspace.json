@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a519abd27a62c233",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68abc2f18e2e7f11",
+  "active": "a519abd27a62c233",
   "lastOpenFiles": [
     "biologia/frente 1/composição dos seres vivos/Água.md",
     "biologia/frente 1/composição dos seres vivos/Lipídios.md",
