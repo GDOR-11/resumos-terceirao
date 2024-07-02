@@ -24,3 +24,4 @@ complemento nominal $\times$ adjunto adnominal:
 	
 	- explicativo: Gregório de Matos, *autor do movimento barroco*, foi considerado o primeiro autor brasileiro
 	- especificador: 
+	- explicativo $\times$ especificador:
