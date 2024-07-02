@@ -8,6 +8,9 @@ subjetivismo, linguagem rebuscada, mulher idealizada, uso da primeira pessoa
 - Gonçalves Dias: poesias líricas e indianistas (canção do exílio é lírica)
 ## ultrarromantismo, mal do século ou geração byroniana
 - tuberculose, egocentrismo, egoísmo
-- Álvares de Azevedo: escrita impulsiva, agressiva (Se Eu Morresse Amanhã)
+- Álvares de Azevedo: escrita impulsiva e agressiva
+## geração condoreira ou social
+- denunciava problemas sociais (não fazia críticas nem estimulava senso crítico)
+- Castro Alves
 # Prosa
 
