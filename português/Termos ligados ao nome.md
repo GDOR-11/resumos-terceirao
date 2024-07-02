@@ -21,3 +21,5 @@ complemento nominal $\times$ adjunto adnominal:
 
 - ### aposto
 	só traz informação extra e é completamente desnecessário para o entendimento da frase
+	- explicativo: Gregório de Matos, *autor do movimento barroco*, foi considerado o primeiro autor brasileiro
+	- especificador: 
