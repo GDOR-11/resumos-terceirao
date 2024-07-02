@@ -1,0 +1,1 @@
+Machado de Assis $\times$ Aluísio de Azevedo
