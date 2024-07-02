@@ -1,7 +1,7 @@
-- adjunto adnominal                          (determina)
-- complemento nominal                    (complementa)
+- adjunto adnominal                        (determina)
+- complemento nominal                  (complementa)
 - predicativo do sujeito e do objeto (caracteriza)
-- aposto                                               (traz informação extra)
+- aposto                                           (traz informação extra)
 
 predicativo do sujeito (predicado verbo-nominal) $\times$ advérbio (predicado verbal):
 	se o termo expressar uma característica do sujeito, é predicativo do sujeito, se expressar uma característica do verbo, é advérbio
@@ -19,3 +19,5 @@ complemento nominal $\times$ adjunto adnominal:
 		"a construção **da escola**": a escola é construída por alguém (complemento)
 		"a assinatura **do aluno**": o aluno que assina (adjunto)
 
+- ### aposto
+	
