@@ -16,3 +16,6 @@ complemento nominal $\times$ adjunto adnominal:
 		complemento nominal: adjetivo, advérbio e substantivo abstrato
 		adjunto adnominal: substrantivo abstrato e concreto
 	3. complemento tem ideia passiva, enquanto adjunto tem ideia ativa (e.g. posse, responsabilidade, etc.)
+		"a construção **da escola**": a escola é construída por alguém (complemento)
+		"a assinatura **do aluno**": o aluno que assina (adjunto)
+
