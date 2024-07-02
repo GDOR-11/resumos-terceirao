@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7ec6d7dcbb7cac6",
+        "id": "cab73a5ed3e0929b",
         "type": "tabs",
         "children": [
           {
-            "id": "68abc2f18e2e7f11",
+            "id": "4d6a36abbf387d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "biologia/frente 3/parasitoses/Amebíase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a519abd27a62c233",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Amebíase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologia/frente 3/parasitoses/Amebíase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "biologia/frente 3/parasitoses/Amebíase.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a519abd27a62c233",
+  "active": "4d6a36abbf387d06",
   "lastOpenFiles": [
+    "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 1/composição dos seres vivos/Água.md",
     "biologia/frente 1/composição dos seres vivos/Lipídios.md",
     "biologia/frente 1/composição dos seres vivos/Carboidratos ou Glicídios.md",
@@ -179,7 +161,6 @@
     "biologia/frente 3/parasitoses/Malária.md",
     "biologia/frente 3/parasitoses/Leishmaniose.md",
     "biologia/frente 3/parasitoses/Tripanossomíase Americana (chagas).md",
-    "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 3/protozoarios.md",
     "biologia/frente 1/composição dos seres vivos",
     "biologia/frente 1",
