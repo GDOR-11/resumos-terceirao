@@ -1,7 +1,7 @@
 
 Obra **contemporânea** de influência naturalista, abordando racismo estrutural, xenofobia regional, entre outros. O título é uma metáfora à prisão solitária.
 
-dividido em 3 partes, narradas por Mabel, Eunice e pelos quartos do Golden Plate respectivamente
+dividido em 3 partes, narradas por Mabel, Eunice e pelos quartos do Golden Plate ("solitárias") respectivamente. Cada parte narra o que cada um viu e viveu.
 
 ## Dona Lúcia + Seu Tiago $\rightarrow$ Camila
 preconceituosos e arrogantes, filha mimada
@@ -19,4 +19,4 @@ Mabel era uma memina dedicada que queria mudar o curso da sua vida fazendo medic
 Jurandir é um porteiro nordestino, com dois filhos. João Pedro é rebelde e vagabundo, já Cacau era como Mabel, focado em mudar de vida e passar no vestibular
 
 
-Cacau decide dar festa no dia antes do vestibular de Mabel e Cacau, ent Jurandir suborna um amigo pra 
+Cacau decide dar festa no dia antes do vestibular de Mabel e Cacau, ent Jurandir suborna um amigo pra cortar a fonte de energia pra parar a festa e deixar Mabel e Cacau dormirem em paz
