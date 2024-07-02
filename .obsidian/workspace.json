@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Realismo e Naturalismo.md",
+                "file": "português/Termos ligados ao nome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Realismo e Naturalismo.md",
+                "file": "português/Termos ligados ao nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Realismo e Naturalismo.md",
+                "file": "português/Termos ligados ao nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literatura/Realismo e Naturalismo.md"
+                "file": "português/Termos ligados ao nome.md"
               }
             }
           },
@@ -160,8 +160,10 @@
   },
   "active": "4d6a36abbf387d06",
   "lastOpenFiles": [
-    "literatura/Romantismo.md",
     "literatura/Realismo e Naturalismo.md",
+    "português/Termos ligados ao nome.md",
+    "português",
+    "literatura/Romantismo.md",
     "obras UFSC/Solitária.md",
     "literatura",
     "obras UFSC/panis et circensis.md",
@@ -187,7 +189,6 @@
     "geografia/frente 1/movimentos terrestres, coordenadas e fusos.md",
     "geografia/frente 2/espaço geográfico.md",
     "geografia/frente 2/desenvolvimento historico da geografia.md",
-    "geografia/frente 2",
     "historia/frente 2 - resto do mundo/aula 1/introducao a historia.md",
     "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
     "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
@@ -196,7 +197,6 @@
     "teste.md",
     "README.md",
     "teste canvas.canvas",
-    "Testando.md",
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas"
   ]
 }
