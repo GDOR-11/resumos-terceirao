@@ -28,3 +28,11 @@ publica Memórias Póstumas de Brás Cubas, mas não vende muito e ele precisa d
 ## Aluísio de Azevedo
 patologias humanas, casamento interesseiro, sexo carnal, agrupamentos humanos e ambientes sujos
 romances de tese: positivismo, darwinismo e russeau (sociedade corrompe o homem)
+
+- O Cortiço
+	João Romão (trabalhador) $\times$ Miranda (herdeiro)
+	João casa com Zulmira, filha de Miranda, e vira herdeiro também.
+	
+	Jerônimo abandona a mulher e foge com Rita Baiana, e sua filha vira prostituta.
+	
+	Pombinha era promitida a um homem desde cedo, e bastava menstruar para que casasse. Como ela era uma das únicas que sabiam ler e escrever, escrevia cartas para todo mundo e, portanto, ouvia as histórias ruins das mulheres com seus maridos, e quando finalmente menstrua e casa, ela foge com Leoni e vira prostituta também
