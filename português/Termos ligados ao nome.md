@@ -20,4 +20,4 @@ complemento nominal $\times$ adjunto adnominal:
 		"a assinatura **do aluno**": o aluno que assina (adjunto)
 
 - ### aposto
-	
+	só traz informação extra e é completamente desnecessário para o entendimento da frase
