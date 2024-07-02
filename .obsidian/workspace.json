@@ -11,8 +11,12 @@
             "id": "4d6a36abbf387d06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "obras UFSC/Solitária.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obras UFSC/Solitária.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obras UFSC/Solitária.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obras UFSC/Solitária.md"
+              }
             }
           },
           {
@@ -152,6 +160,10 @@
   },
   "active": "4d6a36abbf387d06",
   "lastOpenFiles": [
+    "obras UFSC/panis et circensis.md",
+    "obras UFSC/Solitária.md",
+    "obras UFSC/Untitled",
+    "obras UFSC",
     "biologia/frente 3/parasitoses/Amebíase.md",
     "biologia/frente 1/composição dos seres vivos/Água.md",
     "biologia/frente 1/composição dos seres vivos/Lipídios.md",
@@ -166,7 +178,6 @@
     "biologia/frente 1",
     "biologia/frente 3/parasitoses",
     "geografia/frente 1/cartografia.md",
-    "Untitled",
     "p",
     "biologia/frente 3",
     "biologia",
@@ -175,7 +186,6 @@
     "geografia/frente 2/desenvolvimento historico da geografia.md",
     "geografia/frente 2",
     "geografia/frente 1",
-    "geografia",
     "historia/frente 2 - resto do mundo/aula 1/introducao a historia.md",
     "historia/frente 1 - brasil/aula 1/navegação portuguesa.md",
     "historia/frente 2 - resto do mundo/aula 3/egito e mesopotamia.md",
@@ -187,8 +197,6 @@
     "Testando.md",
     "hbjhb.md",
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas",
-    "historia/frente 1 - brasil/Aula 1.md",
-    "conflict-files-obsidian-git.md",
-    "resumos-terceirao/README.md"
+    "historia/frente 1 - brasil/Aula 1.md"
   ]
 }
