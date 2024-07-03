@@ -1,6 +1,6 @@
 - adjunto adnominal                        (determina)
 - complemento nominal                  (complementa)
-- predicativo do sujeito e do objeto (caracteriza)
+- predicativo do sujeito e do objeto (caracteriza algo atribuído ou momentâneo)
 - aposto                                           (traz informação extra)
 
 predicativo do sujeito (predicado verbo-nominal) $\times$ advérbio (predicado verbal):
@@ -22,6 +22,11 @@ complemento nominal $\times$ adjunto adnominal:
 - ### aposto
 	só traz informação extra e é completamente desnecessário para o entendimento da frase
 	
-	- explicativo: Gregório de Matos, *autor do movimento barroco*, foi considerado o primeiro autor brasileiro
-	- especificador: 
-	- explicativo $\times$ especificador:
+	- explicativo: Marlon, *o professor de química*, fará uma festa
+		com o aposto explicativo, a frase terá o mesmo sentido mesmo se removermos o sujeito (o professor de química fará uma festa) ou o aposto (Marlon fará uma festa)
+		com o aposto explicativo, pode se usar vírgulas, parênteses ou travessão
+	- enumarativo: Lucas precisa estudar algumas matérias: *matemática, química e física*
+		LETRA MINÚSCULA DEPOIS DE DOIS PONTOS!!!!!
+	- resumidor: Casas, carros e vidas, *tudo* foi levado pela enchente
+		o verbo sempre concorda com o aposto resumidor, e não com o sujeito, que, no caso, seria casas, carros e vidas
+	enumerativo especifica, resumidor generaliza
