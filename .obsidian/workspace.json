@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "português/Termos ligados ao nome.md",
+                "file": "português/Sintaxe do \"se\".md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "português/Termos ligados ao nome.md",
+                "file": "português/Sintaxe do \"se\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "português/Termos ligados ao nome.md",
+                "file": "português/Sintaxe do \"se\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "português/Termos ligados ao nome.md"
+                "file": "português/Sintaxe do \"se\".md"
               }
             }
           },
@@ -160,8 +160,9 @@
   },
   "active": "4d6a36abbf387d06",
   "lastOpenFiles": [
-    "literatura/Realismo e Naturalismo.md",
     "português/Termos ligados ao nome.md",
+    "português/Sintaxe do \"se\".md",
+    "literatura/Realismo e Naturalismo.md",
     "português",
     "literatura/Romantismo.md",
     "obras UFSC/Solitária.md",
@@ -195,7 +196,6 @@
     "historia/frente 2 - resto do mundo/aula 2/pre historia.md",
     "historia/frente 1 - brasil/aula 1/Brasil pre colonial (1500-1530).md",
     "teste.md",
-    "README.md",
     "teste canvas.canvas",
     "historia/frente 1 - brasil/aula 1/triansicao idade media - idade moderna.canvas"
   ]

@@ -30,3 +30,4 @@ complemento nominal $\times$ adjunto adnominal:
 	- resumidor: Casas, carros e vidas, *tudo* foi levado pela enchente
 		o verbo sempre concorda com o aposto resumidor, e não com o sujeito, que, no caso, seria casas, carros e vidas
 	enumerativo especifica, resumidor generaliza
+
