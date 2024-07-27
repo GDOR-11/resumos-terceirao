@@ -21,5 +21,11 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	máximo de ozônio = altitude com máxima concentração de ozônio (mesosfera)
 	a linha de kármán está perto do começo da termosfera
 
-elementos climáticos
-	
+- elementos climáticos
+	- radiação solar
+	- elementos atmosféricos
+		- temperatura e amplitude térmica
+		- pressão atmosférica
+			depende da superfície topográfica (altitude), da temperatura superficial e das massas de ar
+		- umidade
+		- precipitação
