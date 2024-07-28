@@ -23,6 +23,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 
 - elementos climáticos
 	- radiação solar
+		albedo: quantidade de luz refletida por uma substância (menor albedo = mais radiação absorvida)
 	- elementos atmosféricos
 		- temperatura e amplitude térmica
 		- pressão atmosférica
