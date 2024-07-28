@@ -43,3 +43,6 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 				ocorrem quando uma massa de ar quente e úmido sobe por causa de um terreno mais alto, esfriando-a e causando precipitação
 				barlavento = porção do terreno em que há um aumento de altitude (chove muito)
 				sotavento = local em que não chove muito, por causa do bloqueio do barlavento
+
+brisas marítimias vem do mar, brisas continentais vem do continente
+
