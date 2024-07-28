@@ -53,3 +53,6 @@ brisas marítimias vem do mar, brisas continentais vem do continente
 		diminui a umidade do ar em sua localização, criando secas e até desertos
 		mesmo movimento do ciclone, mas ao contrário
 	ao mudar de hemisfério, o sentido de rotação dos ciclones e anticiclones inverte (força de coriollis)
+	
+	ciclone e anticiclone são termos genéricos
+	furações e tufões são ciclones que ocorrem 
