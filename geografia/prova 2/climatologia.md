@@ -54,5 +54,14 @@ brisas marítimias vem do mar, brisas continentais vem do continente
 		mesmo movimento do ciclone, mas ao contrário
 	ao mudar de hemisfério, o sentido de rotação dos ciclones e anticiclones inverte (força de coriollis)
 	
-	ciclone e anticiclone são termos genéricos
-	furações e tufões são ciclones que ocorrem 
+	ciclone tropical ocorre em latitudes médias (entre os trópicos)
+	ciclone extratropical ocorre em latitudes médias (além dos trópicos)
+	
+	através de sua trajetória, ciclones tendem a se afastar do equador
+	
+	depressão tropical -> tempestade tropical -> furações, ciclones e tufões
+	![[Pasted image 20240728181601.png|400]]
+	tornados são mais pequenos e violentos que ciclones
+	
+	furação caratina de 2004 = único furação registrado no atlântico sul
+	escada de furações Saffir-Simpson: de 1 a 5
