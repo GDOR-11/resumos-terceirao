@@ -46,3 +46,10 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
+- ciclones e anticiclones
+	- ciclone: massa de ar girando no sentido anti-horário ao redor de uma área de baixa pressão, criando chuvas e tempestades
+		as correntes de ar continuam num movimento circular no plano xy, e sobem no plano z
+	- anticiclone: massa de ar girando no sentido horário ao redor de uma área de alta pressão
+		diminui a umidade do ar em sua localização, criando secas e até desertos
+		mesmo movimento do ciclone, mas ao contrário
+	ao mudar de hemisfério, o sentido de rotação dos ciclones e anticiclones inverte (força de coriollis)
