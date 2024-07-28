@@ -28,4 +28,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		- pressão atmosférica
 			depende da superfície topográfica (altitude), da temperatura superficial e das massas de ar
 		- umidade
+			absoluta: em relação ao todo
+			relativa: em relação ao ponto de saturação da água
 		- precipitação
+			- chuvas convectivas: 
