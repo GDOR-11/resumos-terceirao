@@ -28,10 +28,18 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		- temperatura e amplitude térmica
 		- pressão atmosférica
 			depende da superfície topográfica (altitude), da temperatura superficial e das massas de ar
-		- umidade
+		- umidade (absoluta ou relativa)
 			absoluta: em relação ao todo
 			relativa: em relação ao ponto de saturação da água
-		- precipitação
+		- precipitação ( =esfriamento de massa de ar quente e úmido )
 			- chuvas convectivas: acontecem em comulonimbus no verão, principalmente
+				ocorrem quando o ar quente e úmido do solo sobe por forças convectivas e resfria, precipitando a umidade contida nele
+				chuvas convectivas ocorrem quase sempre na amazônia
 				microexplosões, rajadas descendentes ou *downbursts* é um fenômeno comum em cumulonimbus caracterizado por uma repentida e forte corrente de ar descendente que se espalha radialmente ao encontrar o solo. Isso ocorreu no RS.
-				
+			- chuvas frontais
+				ocorrem quando uma massa de ar quente e úmido colide com uma massa de ar frio e seco, condensando a água contida da massa de ar quente
+				causa uma queda na temperatura da superfície, uma vez que a massa de ar frio é levada para baixo e a de ar quente levada para cima
+			- chuvas orográficas
+				ocorrem quando uma massa de ar quente e úmido sobe por causa de um terreno mais alto, esfriando-a e causando precipitação
+				barlavento = porção do terreno em que há um aumento de altitude (chove muito)
+				sotavento = local em que não chove muito, por causa do bloqueio do barlavento
