@@ -33,3 +33,5 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 			relativa: em relação ao ponto de saturação da água
 		- precipitação
 			- chuvas convectivas: acontecem em comulonimbus no verão, principalmente
+				microexplosões, rajadas descendentes ou *downbursts* é um fenômeno comum em cumulonimbus caracterizado por uma repentida e forte corrente de ar descendente que se espalha radialmente ao encontrar o solo. Isso ocorreu no RS.
+				
