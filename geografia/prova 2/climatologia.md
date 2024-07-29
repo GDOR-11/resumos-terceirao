@@ -60,7 +60,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 			mEc: úmida por causa da floresta amazônica, predomina no verão
 			mTc: formada no Chaco (norte argentino, paraguai e sul boliviano; ao lado do manguezal)
 			mTa: junto com mPa, predomina no inverno
-			mPa: vai do sul até o norte do brasil, e causa a friagem (queda brusca de temperatura no sul, sudeste e centro-sul)
+			mPa: vai do sul até o norte do brasil, e causa a friagem (queda brusca de temperatura no centro-sul)
 			interseção entre mPa e mTa = ZCAS = zonâ de convergência do atlântico sul (muita chuva)
 
 
@@ -95,6 +95,13 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	
 	em conjunto, formam um <<<<<
 
-el niño: ventos alíseos fracos, pouco refluxo de água
+el niño: ventos alíseos fracos ou até reversos, pouco refluxo de água
+	menos chuvas no norte e nordeste
+	mais chuvas no centro-sul
 estado normal: 23ºC
 la niña: ventos alíseos fortes, muito refluxo de água
+	mais chuvas no norte e nordeste
+	menos chuvas no centro-sul
+
+o último el niño foi em 2023 e no começo de 2024
+atualmente estamos em la niña (segundo semestre de 2024 pra frente)
