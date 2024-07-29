@@ -56,15 +56,13 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		nome: m\<P, T ou E (A ou AA para representar ártica ou antártica)\>\<m ou c, ou outra letra para especificar qual oceano / continente\> 
 		as correntes instáveis são mPm e a mTm no oeste
 		massas de ar que influenciam o brasil: mEc, mTc, mEa, mTa e, nos invernos, mPa
-		mEa: ventos alíseos
-		mEc: úmida por causa da floresta amazônica, predomina no verão
-		mTc: formada no Chaco (norte argentino, paraguai e sul boliviano; ao lado do manguezal)
-		mTa: junto com mPa, predomina no inverno
-		mPa: vai do sul até o norte do brasil
-		interseção entre mPa e mTa = ZCAS = zonâ de convergência do atlântico sul (muita chuva)
-	
+			mEa: ventos alíseos
+			mEc: úmida por causa da floresta amazônica, predomina no verão
+			mTc: formada no Chaco (norte argentino, paraguai e sul boliviano; ao lado do manguezal)
+			mTa: junto com mPa, predomina no inverno
+			mPa: vai do sul até o norte do brasil, e causa a friagem (queda brusca de temperatura no sul, sudeste e centro-sul)
+			interseção entre mPa e mTa = ZCAS = zonâ de convergência do atlântico sul (muita chuva)
 
-brisas marítimias vem do mar, brisas continentais vem do continente
 
 - ciclones e anticiclones
 	- ciclone: massa de ar girando no sentido anti-horário ao redor de uma área de baixa pressão, criando chuvas e tempestades
@@ -85,3 +83,6 @@ brisas marítimias vem do mar, brisas continentais vem do continente
 	
 	furação caratina de 2004 = único furação registrado no atlântico sul
 	escada de furações Saffir-Simpson: de 1 a 5
+
+ventos alíseos: trópicos ao equador, indo ao oeste
+ventos de oeste: trópicos para cima, indo ao leste
