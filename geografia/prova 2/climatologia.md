@@ -53,7 +53,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	- massas de ar
 		- polares P ou tropicais T ( equatoriais E $\subset$ tropicais T )
 		- marítimas m ou continentais c
-		nome: m\<P, T ou E\>\<m ou c, ou outra letra para especificar qual oceano / continente\> 
+		nome: m\<P, T ou E (A ou AA para representar ártica ou antártica)\>\<m ou c, ou outra letra para especificar qual oceano / continente\> 
 		as correntes instáveis são mPm e a mTm no oeste
 		massas de ar que influenciam o brasil: mEc, mTc, mEa, mTa e, nos invernos, mPa
 		mEc: 
