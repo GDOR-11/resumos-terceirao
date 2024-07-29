@@ -56,7 +56,11 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		nome: m\<P, T ou E (A ou AA para representar ártica ou antártica)\>\<m ou c, ou outra letra para especificar qual oceano / continente\> 
 		as correntes instáveis são mPm e a mTm no oeste
 		massas de ar que influenciam o brasil: mEc, mTc, mEa, mTa e, nos invernos, mPa
-		mEc: 
+		mEa: ventos alíseos
+		mEc: úmida por causa da floresta amazônica
+		mTc: formada no Chaco (norte argentino, paraguai e sul boliviano; ao lado do manguezal)
+		mTa: tudo como esperado
+		mPa: 
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
