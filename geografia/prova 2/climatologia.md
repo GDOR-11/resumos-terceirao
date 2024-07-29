@@ -20,6 +20,8 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	
 	máximo de ozônio = altitude com máxima concentração de ozônio (mesosfera)
 	a linha de kármán está perto do começo da termosfera
+	
+	quanto maior a altitude, menor a concentração de oxigênio
 
 - elementos climáticos
 	- radiação solar
@@ -50,6 +52,8 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	- maritimidade / continentalidade (afetam amplitude térmica e umidade)
 	- correntes marítimas quentes (mais chuva) ou firas (menos chuva)
 		sentido horário no hemisfério norte
+	- ressurgência costeira
+	- uso do solo
 	- massas de ar
 		- polares P ou tropicais T ( equatoriais E $\subset$ tropicais T )
 		- marítimas m ou continentais c
@@ -100,13 +104,16 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 - el niño e la niña
 	causados por mudanças nas velocidades da célula de Hadley $\equiv$ ventos alíseos
 	
-	el niño: ventos alíseos fracos ou até reversos, pouco refluxo de água
+	el niño: ventos alíseos fracos ou até reversos, ressurgência costeira fraca
 		menos chuvas no norte e nordeste
 		mais chuvas no sul
 	estado normal: 23ºC
-	la niña: ventos alíseos fortes, muito refluxo de água
+	la niña: ventos alíseos fortes, ressurgência costeira forte
 		mais chuvas no norte e nordeste
 		menos chuvas no sul
 	
 	o último el niño foi em 2023 e no começo de 2024
 	atualmente estamos em la niña (segundo semestre de 2024 pra frente)
+
+- climas mundiais
+	
