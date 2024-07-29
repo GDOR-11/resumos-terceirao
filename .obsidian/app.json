@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "attachmentFolderPath": "attachments"
 }

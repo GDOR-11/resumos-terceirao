@@ -94,3 +94,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		baixa subpolar = onde a célula de Ferrel e a célula polar divergem
 	
 	em conjunto, formam um <<<<<
+
+el niño: ventos alíseos fracos, pouco refluxo de água
+estado normal: 23ºC
+la niña: ventos alíseos fortes, muito refluxo de água
