@@ -50,8 +50,9 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	- correntes marítimas quentes (mais chuva) ou firas (menos chuva)
 		sentido horário no hemisfério norte
 	- massas de ar
-		- polares, tropicais ou equatoriais ( equatoriais $\subset$ tropicais )
-		- marítimas ou continentais
+		- polares P ou tropicais T ( equatoriais E $\subset$ tropicais T )
+		- marítimas m ou continentais c
+		as correntes instáveis são mP e a mT no oeste
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
