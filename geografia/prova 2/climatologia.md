@@ -28,6 +28,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		- temperatura e amplitude térmica
 		- pressão atmosférica
 			depende da superfície topográfica (altitude), da temperatura superficial e das massas de ar
+		- vento
 		- umidade (absoluta ou relativa)
 			absoluta: em relação ao todo
 			relativa: em relação ao ponto de saturação da água
@@ -43,6 +44,14 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 				ocorrem quando uma massa de ar quente e úmido sobe por causa de um terreno mais alto, esfriando-a e causando precipitação
 				barlavento = porção do terreno em que há um aumento de altitude (chove muito)
 				sotavento = local em que não chove muito, por causa do bloqueio do barlavento
+- fatores climáticos: fatores do local que influenciam nos elementos climáticos
+	- latitude e altitude (afetam temperatura e pressão)
+	- maritimidade / continentalidade (afetam amplitude térmica e umidade)
+	- correntes marítimas quentes (mais chuva) ou firas (menos chuva)
+		sentido horário no hemisfério norte
+	- massas de ar
+		- polares, tropicais ou equatoriais ( equatoriais $\subset$ tropicais )
+		- marítimas ou continentais
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
