@@ -97,11 +97,11 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 
 el niño: ventos alíseos fracos ou até reversos, pouco refluxo de água
 	menos chuvas no norte e nordeste
-	mais chuvas no centro-sul
+	mais chuvas no sul
 estado normal: 23ºC
 la niña: ventos alíseos fortes, muito refluxo de água
 	mais chuvas no norte e nordeste
-	menos chuvas no centro-sul
+	menos chuvas no sul
 
 o último el niño foi em 2023 e no começo de 2024
 atualmente estamos em la niña (segundo semestre de 2024 pra frente)
