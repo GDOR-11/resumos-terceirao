@@ -84,5 +84,13 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	furação caratina de 2004 = único furação registrado no atlântico sul
 	escada de furações Saffir-Simpson: de 1 a 5
 
-ventos alíseos: trópicos ao equador, indo ao oeste
-ventos de oeste: trópicos para cima, indo ao leste
+- células de circulação atmosférica
+	célula de Handley ou ventos alíseos: trópicos ao equador, indo ao oeste
+		ZCIT = zona de convergência intertropical = onde os ventos alíseos se encontram
+		ventos contra-alíseos = ventos encontrados no topo da célula de Hadley, no sentido oposto dos alíseos
+	célula de Ferrel ou ventos de oeste: trópicos para cima, indo ao leste
+		alta subtropical = onde os ventos alíseos e os ventos de oeste divergem
+	célula polar: dos polos pra baixo, indo ao oeste
+		baixa subpolar = onde a célula de Ferrel e a célula polar divergem
+	
+	em conjunto, formam um <<<<<
