@@ -40,6 +40,7 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 			- chuvas frontais
 				ocorrem quando uma massa de ar quente e úmido colide com uma massa de ar frio e seco, condensando a água contida da massa de ar quente
 				causa uma queda na temperatura da superfície, uma vez que a massa de ar frio é levada para baixo e a de ar quente levada para cima
+				o movimento de massas de ar quentes causam chuvas fracas e nevoeiros, já o movimento de massas frias causa fortes chuvas
 			- chuvas orográficas
 				ocorrem quando uma massa de ar quente e úmido sobe por causa de um terreno mais alto, esfriando-a e causando precipitação
 				barlavento = porção do terreno em que há um aumento de altitude (chove muito)
@@ -52,7 +53,10 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	- massas de ar
 		- polares P ou tropicais T ( equatoriais E $\subset$ tropicais T )
 		- marítimas m ou continentais c
-		as correntes instáveis são mP e a mT no oeste
+		nome: m\<P, T ou E\>\<m ou c, ou outra letra para especificar qual oceano / continente\> 
+		as correntes instáveis são mPm e a mTm no oeste
+		massas de ar que influenciam o brasil: mEc, mTc, mEa, mTa e, nos invernos, mPa
+		mEc: 
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
