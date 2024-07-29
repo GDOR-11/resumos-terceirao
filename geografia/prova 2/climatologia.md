@@ -57,10 +57,12 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		as correntes instáveis são mPm e a mTm no oeste
 		massas de ar que influenciam o brasil: mEc, mTc, mEa, mTa e, nos invernos, mPa
 		mEa: ventos alíseos
-		mEc: úmida por causa da floresta amazônica
+		mEc: úmida por causa da floresta amazônica, predomina no verão
 		mTc: formada no Chaco (norte argentino, paraguai e sul boliviano; ao lado do manguezal)
-		mTa: tudo como esperado
-		mPa: 
+		mTa: junto com mPa, predomina no inverno
+		mPa: vai do sul até o norte do brasil
+		interseção entre mPa e mTa = ZCAS = zonâ de convergência do atlântico sul (muita chuva)
+	
 
 brisas marítimias vem do mar, brisas continentais vem do continente
 
