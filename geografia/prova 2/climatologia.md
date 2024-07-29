@@ -94,14 +94,19 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		baixa subpolar = onde a célula de Ferrel e a célula polar divergem
 	
 	em conjunto, formam um <<<<<
+	
+	célula de Hadley: ocorre na ZCIT, na alta subtropical e na baixa subpolar, e é uma circulação de ar no sentido zonal
 
-el niño: ventos alíseos fracos ou até reversos, pouco refluxo de água
-	menos chuvas no norte e nordeste
-	mais chuvas no sul
-estado normal: 23ºC
-la niña: ventos alíseos fortes, muito refluxo de água
-	mais chuvas no norte e nordeste
-	menos chuvas no sul
-
-o último el niño foi em 2023 e no começo de 2024
-atualmente estamos em la niña (segundo semestre de 2024 pra frente)
+- el niño e la niña
+	causados por mudanças nas velocidades da célula de Hadley $\equiv$ ventos alíseos
+	
+	el niño: ventos alíseos fracos ou até reversos, pouco refluxo de água
+		menos chuvas no norte e nordeste
+		mais chuvas no sul
+	estado normal: 23ºC
+	la niña: ventos alíseos fortes, muito refluxo de água
+		mais chuvas no norte e nordeste
+		menos chuvas no sul
+	
+	o último el niño foi em 2023 e no começo de 2024
+	atualmente estamos em la niña (segundo semestre de 2024 pra frente)
