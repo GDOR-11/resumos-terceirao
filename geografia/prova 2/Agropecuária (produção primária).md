@@ -103,5 +103,20 @@ no rebanho bovino, predomunam MT e MG
 	latifúndio: 15-600 módulos rurais
 		podem ser por dimensão (mais de 600 módulos) ou exploração (especulação imobiliária)
 - MST: movimento dos sem terra (união das ligas camponesas). Exigiam aplicação da reforma agrária
-- constituição de 88: governo deve promover reforma agrária
+- constituição de 88: governo deve promover reforma agrária, destacando a função social da terra
+	política de assentamento: terras improdutivas são redistribuídas
+	grileiros: duplicam e falsificam documentos de posse de terra para vender
+	boia fria: trabalho análogo à escravidão
+	função social inclui:
+	- utilização adequada dos recursos naturais
+	- respeito aos direitos trabalhistas
+	- produção em quantidade e qualidade suficientes para atender a população
+	- promoção do desenvolvimento socioeconômico regional
+	- consistência dos anteriores por um longo período de tempo
+	- evitar concentração de terras
 
+propriedades familiares representam 75% das propriedades, mas apenas 25% da área total e 30% da produção agrícola
+pronaf: prograna nacional de fortalecimento da agricultura familiar (possui múltiplos subprogramas especializados)
+
+módulo rural é diferente para cada imóvel, já módulo fiscal é um valor predeterminado em cada município. O primeiro representa a área mínima que pode servir a uma família, o segundo representa a área mímina que seja economicamente viável
+unidades de área: hectar e alqueire
