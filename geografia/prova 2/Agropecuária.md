@@ -20,4 +20,6 @@ agrobiotecnologia: OGMs (transgênicos e cisgênicos)
 os maiores produtores de transgênicos são os EUA e o Brasil (mato grosso e paraná)
 em números absolutos, o Brasil é o maior consumidor da agrotóxicos, mas se isso for comparado à área em que eles são aplicados o Japão é o maior consumidor
 
-cooperativas agrícolas são 
+cooperativas agrícolas não apenas fornecem compartilhamento de máquinas e mão de obra, mas também facilitam o trabalho do produtor, que ao invés de ter que procurar por clientes pode simplismente vender para a cooperativa, que faz isso por ele
+agricultura patronal ou empresarial: trabalhadores contratados em propriedades médias a grandes
+agronegócio: toda relação
