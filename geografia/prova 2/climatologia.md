@@ -115,5 +115,10 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 	o último el niño foi em 2023 e no começo de 2024
 	atualmente estamos em la niña (segundo semestre de 2024 pra frente)
 
-- climas mundiais
-	
+- climas brasileiros (92% tropical 8% subtropical)
+	- tropical equatorial: quente e superúmido
+	- tropical típico: semiúmido
+	- tropical de altitude: semiúmido
+	- tropical atlântico, litorâneo ou úmido: inflência da corrente do brasil (quente)
+	- topical semiárido (caatinga): semiúmido com chuvas irregulares, pela depressão sertaneja
+	- subtropical (estações bem definidas)
