@@ -105,8 +105,11 @@ no rebanho bovino, predomunam MT e MG
 - MST: movimento dos sem terra (união das ligas camponesas). Exigiam aplicação da reforma agrária
 - constituição de 88: governo deve promover reforma agrária, destacando a função social da terra
 	política de assentamento: terras improdutivas são redistribuídas
+	
 	grileiros: duplicam e falsificam documentos de posse de terra para vender
-	boia fria: trabalho análogo à escravidão
+	posseiros: ocupam terra sem ter posse verídica
+	boia fria: trabalhador análogo à escravidão
+	
 	função social inclui:
 	- utilização adequada dos recursos naturais
 	- respeito aos direitos trabalhistas
@@ -120,3 +123,8 @@ pronaf: prograna nacional de fortalecimento da agricultura familiar (possui múl
 
 módulo rural é diferente para cada imóvel, já módulo fiscal é um valor predeterminado em cada município. O primeiro representa a área mínima que pode servir a uma família, o segundo representa a área mímina que seja economicamente viável
 unidades de área: hectar e alqueire
+
+- violência fundiária
+	região mais violenta do país: amazônia oriental, leste do pará
+	arco do desmatamento: basicamente um círculo ao redor da amazônia
+	comando vermelho e PCC
