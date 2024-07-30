@@ -60,3 +60,10 @@ principal origem: mato grosso e SP
 centro-oeste domina na produção de cereais, leguminosas e oleaginosas
 
 crescente importação de fertilizantes russos
+
+- modernização agropecuária
+	acontece a partir de 1960 no centro-sul
+	expansão da fronteira agrícola ou marcha da soja:
+		começa no sul em direção ao centro-oeste, incentivado pela construção de brasília
+		para ao chegar na amazônia pelo solo pobre, então passa a expandir para o leste
+		**matopiba ou matipoba** = última fronteira agrícola (região nordestina que é muito produtiva, mas depois dela a produtividade diminui drasticamente)
