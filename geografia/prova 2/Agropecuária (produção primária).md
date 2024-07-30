@@ -39,4 +39,24 @@ em países ricos, a economia primária tem baixa participação
 	bacia hidrográfica do rio mississipi reduz o custo de transporte
 
 - agropecuária na europa
-	
+	no norte, está majoritariamente ausente, predominando silvicultura de coníferas (taiga) para papel e celulose
+		no brasil, existe silvicultura de pinus (subtropical, boa pra economia, não pro ecossistema) e eucaliptos (tropical)
+	tchernozion no oriente
+	agricultura mediterrânea
+
+China: maior produtora de arroz e trigo, também produz soja e milho
+
+
+## campo brasileiro: maior produtor de soja
+
+- uso de terras
+	- 45% pecuária extensiva
+	- 25% matas e florestas
+	- 18% lavouras
+
+principal destino: China
+principal origem: mato grosso e SP
+
+centro-oeste domina na produção de cereais, leguminosas e oleaginosas
+
+crescente importação de fertilizantes russos
