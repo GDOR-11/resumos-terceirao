@@ -19,3 +19,5 @@ agrobiotecnologia: OGMs (transgênicos e cisgênicos)
 
 os maiores produtores de transgênicos são os EUA e o Brasil (mato grosso e paraná)
 em números absolutos, o Brasil é o maior consumidor da agrotóxicos, mas se isso for comparado à área em que eles são aplicados o Japão é o maior consumidor
+
+cooperativas agrícolas são 
