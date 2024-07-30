@@ -85,5 +85,5 @@ decoreba
 	vale do rio são francisco: produção ortifruti tecnológica e exportadora
 
 em ordem, os principais rebanhos no brasil são de frango, bovino e suíno
-no rebanho de frango e suíno, predominam SC e PR
+no rebanho de frango e suíno, predominam PR, SP, SC, RS e MG
 no rebanho bovino, predomunam MT e MG
