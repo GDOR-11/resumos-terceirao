@@ -21,5 +21,8 @@ os maiores produtores de transgênicos são os EUA e o Brasil (mato grosso e par
 em números absolutos, o Brasil é o maior consumidor da agrotóxicos, mas se isso for comparado à área em que eles são aplicados o Japão é o maior consumidor
 
 cooperativas agrícolas não apenas fornecem compartilhamento de máquinas e mão de obra, mas também facilitam o trabalho do produtor, que ao invés de ter que procurar por clientes pode simplismente vender para a cooperativa, que faz isso por ele
+
 agricultura patronal ou empresarial: trabalhadores contratados em propriedades médias a grandes
-agronegócio: toda relação
+agronegócio: toda relação comercial envolvendo agropecuária
+agribusiness: diz respeito à agricultura de um ponto de vista empresarial
+empresa rural: empresa de agropecuária ou extrativista
