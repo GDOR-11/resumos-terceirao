@@ -26,3 +26,8 @@ agricultura patronal ou empresarial: trabalhadores contratados em propriedades m
 agronegócio: toda relação comercial envolvendo agropecuária
 agribusiness: diz respeito à agricultura de um ponto de vista empresarial
 empresa rural: empresa de agropecuária ou extrativista
+
+
+
+
+em países ricos, a economia primária tem baixa participação
