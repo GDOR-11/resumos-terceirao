@@ -10,4 +10,7 @@ reforma agrária é a ditribuição de terras privatizadas que são improdutivas
 
 revolução verde de 1950: agrotóxicos
 	política dos países da ONU para combater comunismo em países subdesenvolvidos
-	
+	causou maior êxodo rural
+
+agrobiotecnologia: OGMs (transgênicos e cisgênicos)
+	o preço dessas tecnologias causou maior concentração de terras
