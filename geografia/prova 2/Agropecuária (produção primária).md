@@ -87,3 +87,18 @@ decoreba
 em ordem, os principais rebanhos no brasil são de frango, bovino e suíno
 no rebanho de frango e suíno, predominam PR, SP, SC, RS e MG
 no rebanho bovino, predomunam MT e MG
+
+
+### histórico de concentração fundiária
+- capitanias hereditárias
+- sesmarias = subdivisão das capitanias
+- #### lei de terras: acesso à terras por compra ou herança
+- lei eusébio de queiróz: proibição do tráfico negreiro e incentivo à imigração
+- ligas camponesas: lutam pela reforma agrária e direitos sociais no campo
+- ETR (estatuto do trabalhador rural) garante direitos trabalhistas no campo
+- estatuto da terra: classificação de propriedades
+	módulo rural = extensão de terra necessária para uma família viver
+	minifúndio: menos de um módulo rural
+	agricultura familiar: 1-4 módulos rurais
+	latifúndio: 15-600 módulos rurais
+		podem ser por dimensão (mais de 600 módulos) ou exploração (especulação imobiliária)
