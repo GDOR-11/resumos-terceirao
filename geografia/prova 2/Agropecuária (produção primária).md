@@ -78,6 +78,12 @@ decoreba
 		conflito entre brasil e EUA, pelo protecionismo contra a laranja brasileira
 	trigo: RS e PR
 		importado da argentina
-	cacau: PR e BA
+	cacau: pará
 		vassoura de bruxa: fungo do cacau
-	
+	fumo: RS e SC
+	borracha e latex
+	vale do rio são francisco: produção ortifruti tecnológica e exportadora
+
+em ordem, os principais rebanhos no brasil são de frango, bovino e suíno
+no rebanho de frango e suíno, predominam SC e PR
+no rebanho bovino, predomunam MT e MG
