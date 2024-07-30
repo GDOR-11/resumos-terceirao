@@ -117,8 +117,8 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 
 - climas brasileiros (92% tropical 8% subtropical)
 	- tropical equatorial: quente e superúmido
+	- tropical atlântico ou litorâneo: inflência da corrente do brasil (quente)
 	- tropical típico: semiúmido
-	- tropical de altitude: semiúmido
-	- tropical atlântico, litorâneo ou úmido: inflência da corrente do brasil (quente)
+	- tropical de altitude: semiúmido, alta amplitude térmica
 	- topical semiárido (caatinga): semiúmido com chuvas irregulares, pela depressão sertaneja
-	- subtropical (estações bem definidas)
+	- subtropical: estações bem definidas, clima mesotérmico
