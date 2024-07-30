@@ -104,3 +104,4 @@ no rebanho bovino, predomunam MT e MG
 		podem ser por dimensão (mais de 600 módulos) ou exploração (especulação imobiliária)
 - MST: movimento dos sem terra (união das ligas camponesas). Exigiam aplicação da reforma agrária
 - constituição de 88: governo deve promover reforma agrária
+
