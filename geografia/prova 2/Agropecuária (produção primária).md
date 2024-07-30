@@ -67,3 +67,17 @@ crescente importação de fertilizantes russos
 		começa no sul em direção ao centro-oeste, incentivado pela construção de brasília
 		para ao chegar na amazônia pelo solo pobre, então passa a expandir para o leste
 		**matopiba ou matipoba** = última fronteira agrícola (região nordestina que é muito produtiva, mas depois dela a produtividade diminui drasticamente)
+
+decoreba
+	milho: 3º, MT
+	cana-de-açúcar: 1º, SP
+	café: 1º, MG
+		marcha do café: de RJ a SP (terra roxa), hoje em MG
+	algodão: 4º, MT e BA
+	laranja: 1º, SP
+		conflito entre brasil e EUA, pelo protecionismo contra a laranja brasileira
+	trigo: RS e PR
+		importado da argentina
+	cacau: PR e BA
+		vassoura de bruxa: fungo do cacau
+	
