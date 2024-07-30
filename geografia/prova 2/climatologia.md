@@ -117,8 +117,23 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 
 - climas brasileiros (92% tropical 8% subtropical)
 	- tropical equatorial: quente e superúmido
-	- tropical atlântico ou litorâneo: inflência da corrente do brasil (quente)
+	- tropical atlântico ou litorâneo: inflência da corrente do brasil (quente) e da mTa
 	- tropical típico: semiúmido
 	- tropical de altitude: semiúmido, alta amplitude térmica
 	- topical semiárido (caatinga): semiúmido com chuvas irregulares, pela depressão sertaneja
-	- subtropical: estações bem definidas, clima mesotérmico
+	- subtropical: estações bem definidas (clima mesotérmico)
+
+- classificação de Koppen:
+	- primeira letra:
+		A: quente e úmido
+		B: quente e seco
+		C: mesotérmico (estações bem-definidas)
+	- segunda letra:
+		f: chuvas por todo ano
+		m: primavera é a estação seca
+		w: chuvas no verão;      w': chuvas no verão e outono
+		s: chuvas no inverno;    s': chuvas no inverno e outono
+	- terceira letra:
+		h: sempre quente
+		a: verão quente e inverno ameno
+		b: verão ameno e inverno rigoroso
