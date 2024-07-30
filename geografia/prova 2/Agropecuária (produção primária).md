@@ -102,3 +102,5 @@ no rebanho bovino, predomunam MT e MG
 	agricultura familiar: 1-4 módulos rurais
 	latifúndio: 15-600 módulos rurais
 		podem ser por dimensão (mais de 600 módulos) ou exploração (especulação imobiliária)
+- MST: movimento dos sem terra (união das ligas camponesas). Exigiam aplicação da reforma agrária
+- constituição de 88: governo deve promover reforma agrária
