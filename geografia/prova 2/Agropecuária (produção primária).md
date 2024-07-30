@@ -31,3 +31,12 @@ empresa rural: empresa de agropecuária ou extrativista
 
 
 em países ricos, a economia primária tem baixa participação
+
+- agropecuária nos EUA: trigo, milho e algodão
+	ausência de plantations
+	pecuária intensiva no *dairy belt* (cinturão dos laticínios, no nordeste)
+	pecuária extensiva em todo centro oeste pelo clima semiárido
+	bacia hidrográfica do rio mississipi reduz o custo de transporte
+
+- agropecuária na europa
+	
