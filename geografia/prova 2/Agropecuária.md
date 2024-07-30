@@ -8,5 +8,6 @@ reforma agrária é a ditribuição de terras privatizadas que são improdutivas
 - agricultura intensiva: visa lucro máximo através de tecnologias e modernização
 - agricultura alternativa ou orgânica: não usa agrotóxicos, OGMs, etc.
 
-revolução verde de 1950
+revolução verde de 1950: agrotóxicos
 	política dos países da ONU para combater comunismo em países subdesenvolvidos
+	
