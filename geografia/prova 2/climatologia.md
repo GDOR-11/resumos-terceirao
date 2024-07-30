@@ -137,3 +137,5 @@ o clima deve considerar o tempo dos últimos 20 a 30 anos de um lugar
 		h: sempre quente
 		a: verão quente e inverno ameno
 		b: verão ameno e inverno rigoroso
+	
+	em SC, temos Cfa no litoral e no sul do oeste, o resto é Cfb
