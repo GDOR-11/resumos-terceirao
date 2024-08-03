@@ -1,5 +1,11 @@
-eram o principal grupo animal na era mesosoica
+eram o principal grupo animal na era mesozóica
 
 
 - #### quelônios
-	tartarugas (), cágados e jabutis
+	tartarugas (aquáticas), cágados (semiaquáticos) e jabutis (terrestres)
+	carapaça óssea
+	sem dentes
+	gênero determinado pela temperatura do ovo (ovo mais fundo => mais frio)
+
+- #### escamados
+	
