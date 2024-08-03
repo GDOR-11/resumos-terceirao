@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b268d051042a1077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "geografia/prova 2/agropecuária (produção primária).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "geografia/prova 2/agropecuária (produção primária).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "geografia/prova 2/agropecuária (produção primária).md"
               }
             }
           },
@@ -171,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b268d051042a1077",
+  "active": "4d6a36abbf387d06",
   "lastOpenFiles": [
-    "geografia/prova 2/agropecuária (produção primária).md",
     "conflict-files-obsidian-git.md",
+    "geografia/prova 2/agropecuária (produção primária).md",
     "Untitled 1.md",
     "geografia/prova 2/climatologia.md",
     "Untitled.md",
