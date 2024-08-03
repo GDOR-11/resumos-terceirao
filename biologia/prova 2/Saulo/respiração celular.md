@@ -1,8 +1,8 @@
 ADP: adenosina difosfato ( adenina + ribose + 2P )
 ATP: adenosina trifosfato ( adenina + ribose + 3P )
 
-$N\!AD\longrightarrow N\!ADH^++H^+$, capturando 2 hidrogênios de outro composto
-$F\!AD\longrightarrow F\!ADH^{+2}_2$, capturando 2 hidrogênios de outro composto
+$N\!AD^++2H^++2e^-\longleftrightarrow N\!ADH$
+$F\!AD+2H^++2e^-\longleftrightarrow F\!ADH_2$
 
 $C_6H_{12}O_6+6O_2+32ADP\longrightarrow 6CO_2+6H_2O+32ATP$
 a membrana externa da mitocôndria é lisa, a interna contém cristas mitocondriais
@@ -17,4 +17,6 @@ o acetil formado depois disso se combina com a coenzima A (CoA) e forma o acetil
 
 - ### ciclo de krebs / ciclo do ácido cítrico (matriz mitocondrial)
 	1 acetil-CoA, $3N\!AD$, $1F\!AD$ entram, gerando seus produtos, 1ATP e $2CO_2$
-	
+
+- ### cadeia respiratória
+	todos os $N\!ADH$ e $F\!ADH_2$ produzidos até agora se convertem em $NAD^+$ e $FAD$, produzindo $H^+$ e $e^-$, o primeiro indo ao espaço intermembranas e o segundo passando pela cadeia transportadora de elétrons
