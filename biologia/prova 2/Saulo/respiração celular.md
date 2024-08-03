@@ -12,5 +12,8 @@ dentro da membrana interna há a matriz mitocondrial, com ribossomos, enzimas e 
 	quebra da glicose em 2 ácidos pirúvicos
 	entram glicose, 2ATP, 2NAD e 4 ADP, cada um com seus respectivos produtos
 
-após a glicólise, 
+após a glicólise, os ácidos pirúvicos entram na mitocôndria e são atacados por hidrogenases e descarboxilases, as quais liberam $H$ (que foram capturados pelo $N\!AD$) e $CO_2$
+o acetil formado depois disso se combina com a coenzima A (CoA) e forma o acetil-coenzima A (acetil-CoA)
 
+- ### ciclo de krebs / ciclo do ácido cítrico
+	
