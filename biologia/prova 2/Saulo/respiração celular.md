@@ -1,8 +1,8 @@
 ADP: adenosina difosfato ( adenina + ribose + 2P )
 ATP: adenosina trifosfato ( adenina + ribose + 3P )
 
-$N\!AD\longrightarrow N\!ADH^++H^+$ capturando 2 hidrogênios
-$F\!AD\longrightarrow F\!ADH^{+2}_2+2H^+$ capturando 4 hidrogênios
+$N\!AD\longrightarrow N\!ADH^++H^+$, capturando 2 hidrogênios de outro composto
+$F\!AD\longrightarrow F\!ADH^{+2}_2$, capturando 2 hidrogênios de outro composto
 
 $C_6H_{12}O_6+6O_2+32ADP\longrightarrow 6CO_2+6H_2O+32ATP$
 a membrana externa da mitocôndria é lisa, a interna contém cristas mitocondriais
@@ -16,4 +16,5 @@ após a glicólise, os ácidos pirúvicos entram na mitocôndria e são atacados
 o acetil formado depois disso se combina com a coenzima A (CoA) e forma o acetil-coenzima A (acetil-CoA)
 
 - ### ciclo de krebs / ciclo do ácido cítrico (matriz mitocondrial)
-	1 acetil-CoA, $3N\!AD$, $1F\!AD$
+	1 acetil-CoA, $3N\!AD$, $1F\!AD$ entram, gerando seus produtos, 1ATP e $2CO_2$
+	
