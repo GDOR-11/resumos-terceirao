@@ -1,5 +1,10 @@
 eram o principal grupo animal na era mesozóica
 
+adaptações:
+- 
+- pele espessa, seca e queratinizada
+
+pele espessa, seca e queratinizada
 
 - #### quelônios
 	tartarugas (aquáticas), cágados (semiaquáticos) e jabutis (terrestres)
