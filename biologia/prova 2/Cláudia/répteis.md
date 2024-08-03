@@ -1,15 +1,15 @@
 eram o principal grupo animal na era mesozóica
 
 adaptações:
-- 
+- ovo amniótico
 - pele espessa, seca e queratinizada
 
-pele espessa, seca e queratinizada
+sistema digestório termina em cloaca
 
 - #### quelônios
 	tartarugas (aquáticas), cágados (semiaquáticos) e jabutis (terrestres)
 	carapaça óssea
-	sem dentes
+	bico córneo ao invés de dentes
 	gênero determinado pela temperatura do ovo (ovo mais fundo => mais frio)
 
 - #### escamados
