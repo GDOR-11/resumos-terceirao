@@ -18,5 +18,10 @@ o acetil formado depois disso se combina com a coenzima A (CoA) e forma o acetil
 - ### ciclo de krebs / ciclo do ácido cítrico (matriz mitocondrial)
 	1 acetil-CoA, $3N\!AD$, $1F\!AD$ entram, gerando seus produtos, 1ATP e $2CO_2$
 
-- ### cadeia respiratória
-	todos os $N\!ADH$ e $F\!ADH_2$ produzidos até agora se convertem em $NAD^+$ e $FAD$, produzindo $H^+$ e $e^-$, o primeiro indo ao espaço intermembranas e o segundo passando pela cadeia transportadora de elétrons
+- ### cadeia respiratória / fosforilação oxidativa
+	todos os $N\!ADH$ e $F\!ADH_2$ produzidos até agora se convertem em $NAD^+$ e $FAD$, produzindo $H^+$ e $e^-$, o primeiro indo ao espaço intermembranas e o segundo passando pela cadeia transportadora de elétrons até chegar no aceptor final de elétrons, o $O_2$, que agora consegue reagir com $4H^+$ para formar $2H_2O$
+	
+	quanto aos $H^+$ em excesso no espaço intermembranas, a proteína ATP-sintase, na membrana interna, produz ATP a partir da passagem de $H^+$ através dela (quimiosmose = utilização do gradiente de concentração de $H^+$ para produzir $ATP$)
+	
+	cada $N\!ADH$ gera em média $2.5ATP$
+	cada $F\!ADH_2$ gera em média $1.5ATP$
