@@ -1,8 +1,8 @@
 ADP: adenosina difosfato ( adenina + ribose + 2P )
 ATP: adenosina trifosfato ( adenina + ribose + 3P )
 
-$N\!AD\longrightarrow N\!ADH^++H^+$
-$F\!AD\longrightarrow F\!ADH^{+2}_2+2H^+$
+$N\!AD\longrightarrow N\!ADH^++H^+$ capturando 2 hidrogênios
+$F\!AD\longrightarrow F\!ADH^{+2}_2+2H^+$ capturando 4 hidrogênios
 
 $C_6H_{12}O_6+6O_2+32ADP\longrightarrow 6CO_2+6H_2O+32ATP$
 a membrana externa da mitocôndria é lisa, a interna contém cristas mitocondriais
