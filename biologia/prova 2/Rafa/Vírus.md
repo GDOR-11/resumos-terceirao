@@ -35,4 +35,6 @@ arbovírus: qualquer vírus transmitido por artrópodes
 
 - #### dengue ( DEN 1, 2, 3, 4 e 5 $\subset$ flavivírus )
 
-- #### febre amarela ()
+- #### febre amarela
+	fase inicial (febre comum) e fase tóxica (infecção hepática)
+	transmitida pelo *Aedes aegypti* no ciclo urbano e outros 2 mosquitos no ciclo silvestre
