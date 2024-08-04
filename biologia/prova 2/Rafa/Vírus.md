@@ -20,3 +20,19 @@ lisogênico é o em que não há lise nem gênese, o lítico que tem lise e gên
 
 arbovírus: qualquer vírus transmitido por artrópodes
 
+
+- #### gripe ( Influenza )
+	possui dois tipos de proteínas: H e N
+
+- #### covid-19 ( coronavírus )
+
+- #### AIDS ( HIV )
+	infecta linfócitos T
+	possui tratamento, mas não possui cura
+
+- #### condiloma acuminado ( HPV ou papilomavírus humano )
+	IST que pode causar câncer
+
+- #### dengue ( DEN 1, 2, 3, 4 e 5 $\subset$ flavivírus )
+
+- #### febre amarela ()
