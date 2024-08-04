@@ -15,9 +15,19 @@ vírus podem ser nus ou envelopados dependendo se possuem envelope (que não é 
 	- fita simples: fita positiva (RNAm) ou fita negativa (RNA $\rightarrow$ RNAm)
 	- fita dupla RNA $\rightarrow$ DNA $\rightarrow$ RNAm (retrovírus)
 
-arbovírus: qualquer vírus transmitido por artrópodes
-
-
-
 bacteriófagos passam se reproduzem através de ciclo lisogênico e lítico
 lisogênico é o em que não há lise nem gênese, o lítico que tem lise e gênese
+
+arbovírus: qualquer vírus transmitido por artrópodes
+vírus = agente etiológico
+vetor: transmite o vírus
+reservatório natural: armazena o vírus
+
+endemia: ocorre num local específico
+epidemia: surtos em várias regiões
+pandemia: surto global
+
+doença emergente: entrou em atividade e foi descoberta
+doença reemergente: voltou à ativa após der descoberta e controlada
+
+
