@@ -6,5 +6,10 @@ glândula uropigiana na região caudal para impermeabilizar as penas
 penas queratinizadas com alto isolamento térmico
 
 sacos aéreos (anexos do pulmão) reduzem a densidade, armazenam ar e dissipam calor
-pulmões parabronquíolos
+pulmões = parabronquíolos
 siringe: estrutura que permite o canto
+
+digestão:
+	papo: amolece o alimento
+	estômago químico
+	moela: tritura o alimento
