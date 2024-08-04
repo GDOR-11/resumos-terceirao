@@ -16,6 +16,19 @@ sistema digestório termina em cloaca
 	lagartos, anfisbenas (cobra de duas cabeças) e serpentes
 	possuem epiderme escamosa
 	sofrem muda
+	
+	áglifas: sem dentes especializados nem peçonha, mata através da constrição muscular
+	opistóglifas: dentes inoculadores posteriores
+	proteróglifas: dentes inoculadores anteriores
+	solenóglifas: dentes inoculadores anteriores com canal interno por onde a peçonha passa
+	
+	- adaptações das serpentes para poderem comer presas maiores que si mesmas:
+		- osso quadrado, que permite que a mandíbula abra quase 180º
+		- pulmão esquerdo reduzido ou ausente e rins um na frente do outro ao invés de estarem lado a lado
+		- estômago e parede do corpo muito elásticos
+		- ausência do esterno
+	
+	
 
 - #### crocodilianos / arcossauros
 	crocodilianos: jacarés, crocodilos e gaviais
