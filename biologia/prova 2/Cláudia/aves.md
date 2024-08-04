@@ -9,7 +9,13 @@ sacos aéreos (anexos do pulmão) reduzem a densidade, armazenam ar e dissipam c
 pulmões = parabronquíolos
 siringe: estrutura que permite o canto
 
-digestão:
-	papo: amolece o alimento
-	estômago químico
-	moela: tritura o alimento
+- digestão:
+	- papo: armazena e amolece (mecânica)
+	- estômago químico
+	- moela: tritura (mecânica)
+	acaba em cloaca
+
+não possuem bexiga, excretam ácido úrico junto com as fezes
+glândulas de sal retiram o excesso de sal ingerido com os alimentos em aves marinhas
+
+
