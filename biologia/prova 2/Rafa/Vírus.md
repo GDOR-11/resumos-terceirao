@@ -22,7 +22,15 @@ arbovírus: qualquer vírus transmitido por artrópodes
 
 
 *Aedes aegypti*: chikungunya, dengue, febre amarela e zika
+tríplice viral: sarampo, caxumba e rubéola
 
+fixação / adsorção: proteínas ligantes ativam os receptores
+penetração por injeção, fusão do envelope ou endocitose
+desnudamento: lisossomo dissolve as proteínas virais
+biossíntese
+montagem
+liberação de novos vírus por lise ou brotamento
+## doenças
 - #### gripe ( Influenza )
 	possui dois tipos de proteínas: H e N
 
@@ -40,3 +48,13 @@ arbovírus: qualquer vírus transmitido por artrópodes
 - #### febre amarela
 	fase inicial (febre comum) e fase tóxica (infecção hepática)
 	transmitida pelo *Aedes aegypti* no ciclo urbano e outros 2 mosquitos no ciclo silvestre
+
+- #### sarampo (RNA-)
+	extremamente contagioso e pode ser fatal
+
+- ### rubéola (RNA+)
+	especialmente perigosa durante gestação
+
+- #### poliomielite (RNA+)
+	destrói células nervosas
+	vacina do zé gotinha
