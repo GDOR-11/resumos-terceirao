@@ -15,3 +15,4 @@ vírus podem ser nus ou envelopados dependendo se possuem envelope (que não é 
 	- fita simples: fita positiva (RNAm) ou fita negativa (RNA $\rightarrow$ RNAm)
 	- fita dupla RNA $\rightarrow$ DNA $\rightarrow$ RNAm (retrovírus)
 
+arbovírus: qualquer vírus transmitido por artrópodes
