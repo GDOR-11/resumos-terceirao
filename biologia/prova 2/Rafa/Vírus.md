@@ -21,6 +21,8 @@ lisogênico é o em que não há lise nem gênese, o lítico que tem lise e gên
 arbovírus: qualquer vírus transmitido por artrópodes
 
 
+*Aedes aegypti*: chikungunya, dengue, febre amarela e zika
+
 - #### gripe ( Influenza )
 	possui dois tipos de proteínas: H e N
 
