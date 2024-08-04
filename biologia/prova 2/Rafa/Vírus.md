@@ -20,4 +20,4 @@ arbovírus: qualquer vírus transmitido por artrópodes
 
 
 bacteriófagos passam se reproduzem através de ciclo lisogênico e lítico
-lisogênico é o em que não há lise nem gênese
+lisogênico é o em que não há lise nem gênese, o lítico que tem lise e gênese
