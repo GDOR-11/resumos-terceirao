@@ -16,3 +16,8 @@ vírus podem ser nus ou envelopados dependendo se possuem envelope (que não é 
 	- fita dupla RNA $\rightarrow$ DNA $\rightarrow$ RNAm (retrovírus)
 
 arbovírus: qualquer vírus transmitido por artrópodes
+
+
+
+bacteriófagos passam se reproduzem através de ciclo lisogênico e lítico
+lisogênico é o em que não há lise nem gênese
