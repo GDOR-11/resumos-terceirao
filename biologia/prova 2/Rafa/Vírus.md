@@ -10,5 +10,8 @@ não existe nada que mate o vírus diretamente
 
 vírus podem ser nus ou envelopados dependendo se possuem envelope (que não é do vírus em si, é parte da membrana da célula que deu origem ao vírus)
 
-DNA de fita simples ou dupla
-RNA: fita simples, fita positiva (RNAm), fita negativa (RNA $\rightarrow$ RNAm) ou retrovírus (RNA $\rightarrow$ DNA $\rightarrow$ RNAm)
+- DNA: fita simples ou dupla
+- RNA:
+	- fita simples: fita positiva (RNAm) ou fita negativa (RNA $\rightarrow$ RNAm)
+	- fita dupla RNA $\rightarrow$ DNA $\rightarrow$ RNAm (retrovírus)
+
