@@ -23,3 +23,4 @@ crianças humanas não possuem molares
 	nascem completamente formados
 	ainda possuem todos anexos embrionários dos ovos amnióticos, porém ao invés de estarem num ovo estão na placenta
 	placenta = contato entre córion e útero
+	possuem veia e artéria umbilical para transporte de oxigênio e nutrientes para o feto
