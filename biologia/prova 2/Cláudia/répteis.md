@@ -2,9 +2,13 @@ eram o principal grupo animal na era mesozóica
 
 adaptações:
 - ovo amniótico
-- pele espessa, seca e queratinizada
+- respiração pulmonar eficiente (pulmão parenquimatoso possui mais dobras)
+- pele espessa, queratinizada, impermeável e seca
+- fecundação interna e desenvolvimento direto
+- excreção de ácido úrico (economiza água)
 
 sistema digestório termina em cloaca
+alguns possuem membrana nictitante nos olhos
 
 - #### quelônios
 	tartarugas (aquáticas), cágados (semiaquáticos) e jabutis (terrestres)
