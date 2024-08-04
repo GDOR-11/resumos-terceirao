@@ -19,15 +19,4 @@ bacteriófagos passam se reproduzem através de ciclo lisogênico e lítico
 lisogênico é o em que não há lise nem gênese, o lítico que tem lise e gênese
 
 arbovírus: qualquer vírus transmitido por artrópodes
-vírus = agente etiológico
-vetor: transmite o vírus
-reservatório natural: armazena o vírus
-
-endemia: ocorre num local específico
-epidemia: surtos em várias regiões
-pandemia: surto global
-
-doença emergente: entrou em atividade e foi descoberta
-doença reemergente: voltou à ativa após der descoberta e controlada
-
 
