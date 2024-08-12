@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"c06d871806270c7b","type":"text","text":"# Romantismo\nmotivado pela independência do Brasil e pela chegada da corte portuguesa\n\nobjetivo: criar uma identidade cultural","x":-13,"y":6,"width":393,"height":194},
+		{"id":"b071dfd8ff422e07","type":"text","text":"## poesia","x":589,"y":-127,"width":171,"height":67},
+		{"id":"b591b7038862883e","type":"text","text":"## prosa","x":589,"y":280,"width":171,"height":60},
+		{"id":"5eea423ef85df5a2","type":"text","text":"1ª geração: nacionalista ou indianista\nGonçalves Dias e a Canção do Exílio","x":861,"y":-240,"width":379,"height":80},
+		{"id":"2c2450a82bc5c856","type":"text","text":"2ª geração: mal do século","x":861,"y":-127,"width":299,"height":67},
+		{"id":"b13ade432fe06687","type":"text","text":"3ª geração: condoreira (por causa do condor)\ndenuncia problemas, porém não incentiva pensamento crítico\nCastro Alves e O Navio Negreiro","x":860,"y":-14,"width":460,"height":134},
+		{"id":"9d7fc683228cdc83","type":"text","text":"Álvares de Azevedo\n\"se eu morrese amanhã\"\nescrita impulsiva e revoltada","x":1360,"y":-200,"width":300,"height":100},
+		{"id":"3932e90132860bde","type":"text","text":"Casimiro de Abreu\n\"meus oito anos\"\ncomedido, escrita suave","x":1360,"y":-80,"width":280,"height":100},
+		{"id":"c124183f74da36c9","type":"text","text":"romances urbanos:\n- A Moreninha\n- Pata da Gazela\n- Lucíola\n- Senhora\n- Memórias de um Sargento de Milícias","x":840,"y":500,"width":280,"height":240},
+		{"id":"881b894b3b4cae84","type":"text","text":"romances regionalistas\n- A Escrava Isaura\n- Inocência\n- O Seminarista\n- O Sertanejo","x":560,"y":760,"width":280,"height":200},
+		{"id":"93e74b9db41e8ea5","type":"text","text":"romances históricos\n- As Minas de Prata\n- Iracema","x":320,"y":580,"width":240,"height":160},
+		{"id":"8e85decf02aed6e3","type":"text","text":"romances indianistas\n- O Guarani\n- Iracema\n- Ubirajara","x":320,"y":400,"width":240,"height":160},
+		{"id":"8da698758f768777","type":"text","text":"José de Alencar\nescravocrata e grande crítico de D. Pedro","x":861,"y":260,"width":259,"height":100},
+		{"id":"2beda8d45a178d9a","x":1500,"y":260,"width":440,"height":160,"type":"text","text":"# Realismo e Naturalismo\ntem como princípio negar os princípios românticos na prosa mostrandoais fielmente a realidade brasileira"},
+		{"id":"e7d8ee0dae248328","x":2040,"y":160,"width":420,"height":140,"type":"text","text":"## Machado\n- Memórias Póstumas de Brás Cubas\n- análise psicológica das personagens"},
+		{"id":"7cd338047757a9cb","x":2040,"y":380,"width":440,"height":120,"type":"text","text":"## Aluísio de Azevedo\n- O Cortiço\n- análise coletiva com influência do meio"},
+		{"id":"ff4ae377281fa6be","x":1860,"y":-180,"width":390,"height":140,"type":"text","text":"# Parnasianismo\nOlavo Bilac\nO Vaso Chinês, de Alberto de Oliveira"},
+		{"id":"832fdba0ef0c3f9f","x":1220,"y":-801,"width":420,"height":121,"type":"text","text":"# Simbolismo\nViolões que Choram, de Cruz e Sousa\nagrega o melhor de cada escola literária"}
+	],
+	"edges":[
+		{"id":"c79f0f3dda1c6913","fromNode":"c06d871806270c7b","fromSide":"right","toNode":"b071dfd8ff422e07","toSide":"left"},
+		{"id":"b800ff6235969767","fromNode":"c06d871806270c7b","fromSide":"right","toNode":"b591b7038862883e","toSide":"left"},
+		{"id":"fecd6c59bb440e80","fromNode":"b071dfd8ff422e07","fromSide":"right","toNode":"5eea423ef85df5a2","toSide":"left"},
+		{"id":"dbbdb9e2444e02c1","fromNode":"b071dfd8ff422e07","fromSide":"right","toNode":"2c2450a82bc5c856","toSide":"left"},
+		{"id":"e7c0fa99950b7af1","fromNode":"b071dfd8ff422e07","fromSide":"right","toNode":"b13ade432fe06687","toSide":"left"},
+		{"id":"bfb84a1706346000","fromNode":"2c2450a82bc5c856","fromSide":"right","toNode":"9d7fc683228cdc83","toSide":"left"},
+		{"id":"ba64d75e7bead497","fromNode":"2c2450a82bc5c856","fromSide":"right","toNode":"3932e90132860bde","toSide":"left"},
+		{"id":"f0e4e9c51db46854","fromNode":"b591b7038862883e","fromSide":"bottom","toNode":"8e85decf02aed6e3","toSide":"right"},
+		{"id":"a6a3b0ade05e01f9","fromNode":"b591b7038862883e","fromSide":"bottom","toNode":"93e74b9db41e8ea5","toSide":"right"},
+		{"id":"d7f086f9e69ae999","fromNode":"b591b7038862883e","fromSide":"bottom","toNode":"881b894b3b4cae84","toSide":"top"},
+		{"id":"765e7a2f05dcfb23","fromNode":"b591b7038862883e","fromSide":"bottom","toNode":"c124183f74da36c9","toSide":"left"},
+		{"id":"53a886128c0dbb86","fromNode":"b591b7038862883e","fromSide":"right","toNode":"8da698758f768777","toSide":"left"},
+		{"id":"c809b83aaa389ed9","fromNode":"2beda8d45a178d9a","fromSide":"right","toNode":"e7d8ee0dae248328","toSide":"left"},
+		{"id":"eaad83e55d9c8f60","fromNode":"2beda8d45a178d9a","fromSide":"right","toNode":"7cd338047757a9cb","toSide":"left"},
+		{"id":"e2d1274ce8c64c0c","fromNode":"b071dfd8ff422e07","fromSide":"top","toNode":"832fdba0ef0c3f9f","toSide":"bottom"},
+		{"id":"a0f8f9f796b100c1","fromNode":"ff4ae377281fa6be","fromSide":"top","toNode":"832fdba0ef0c3f9f","toSide":"bottom"}
+	]
+}

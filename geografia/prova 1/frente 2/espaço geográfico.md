@@ -1,0 +1,5 @@
+- paisagem (característica visual)
+- lugar (espaço percebido e vivido pelas pessoas)
+- território
+- região (área que compartilha caratcterísticas entre si)
+- redes (coisa que lembra um grafo)
