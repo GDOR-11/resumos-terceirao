@@ -1,3 +1,17 @@
+- guerras de independência (Dona Maria Quitéria e guerra da Cisplatina)
+- constituição da mandioca
+- noite das agonias
+- conselho de estado outorga constituição de 24
+- confederação do equador (Barata e Caneca)
+- crise social e política:
+    - endividamento
+    - partido português $\times$ brasileiro
+    - golpe do irmão de D. Pedro I sobre sua filha
+- D. Pedro I abdica
+
+
+
+
 - houveram guerras de independência no nordeste e na cisplatina durante um ano, consistindo na batalha entre tropas portuguesas e mercenários ingleses
 	Dona Maria Quitéria: foi lutar escondida no nordeste, e após ser descoberta foi mantida e ganhou destaque
 

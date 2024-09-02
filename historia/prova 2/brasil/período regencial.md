@@ -1,3 +1,22 @@
+- partido restaurador (retorno de D. Pedro I), liberal moderado (escravidão e liberalismo econômico) e liberal extaltado (federalismo e liberalismo político)
+- regência trina provisória
+- regência permanente: lei feijó, guarda nacional, código de processo criminal
+- ato adicional:
+    - assembleias legislativas provinciais
+    - regência una
+    - DF no RJ
+    - suspensão do poder moderador
+
+- cabanagem (pará): cabanos, expulsão dos portugueses e abolição da escravidão
+- balaiada (maranhão): preço do algodão
+- dos malês (bahia): tipo revolução do Haiti
+- sabinada (elitista; bahia): república até D. Pedro II
+- farroupilha (elitista; bahia): Gonçalves e Garibaldi
+
+
+
+
+
 - ##### estrutura política
 	- partido restaurador: antigo partido português, defendia a volta de D. Pedro I
 	- partido liberal moderado: aristocracia rural e burguesia, defendia liberalismo econômico e escravidão
