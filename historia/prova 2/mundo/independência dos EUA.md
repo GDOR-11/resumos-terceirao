@@ -1,3 +1,13 @@
+- guerra dos 7 anos => mais impostos => descontentamento => festa do chá => leis intoleráveis
+- Congresso Continental da Filadélfia
+- 2° Congresso Nacional
+- independência
+- guerras de independência (acaba com tratado de paris)
+- constituição república cederativa
+
+
+
+
 - norte: colonização de povoamento e comércio
 - sul: colonização de exploração em plantation
 

@@ -1,3 +1,8 @@
+- modos de produção
+- motivos para começar na inglaterra
+- consequências
+
+
 - produção artesanal: trabalhador possui as ferramentas; Corpoações de Ofício
 - manufatura: o dono do meio de produção possui as ferramentas; máquinas controladas por pessoas
 - produção industrial: máquinas à vapor inteiramente substituem pessoas; trabalho vira mercadoria

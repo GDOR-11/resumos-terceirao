@@ -1,3 +1,27 @@
+- golpe 18 de brumário, Napoleão como figura neutra
+- consulado:
+    - organização econômica
+    - submissão do clero ao estado
+    - educação pública e laica
+    - código napoleônico
+- por meio de 2 plebiscitos, a França se torna um império
+- Império:
+    - batalha de trafalgar
+    - bloqueio continental
+    - invasão na rússia (exército volta enfraquecido)
+    - invasão da áustria, prússia, rússia e inglaterra
+    - Napoleão é exilado, dando o trono a Luis XVIII Bourbon
+- resgate de napoleão e governo dos 100 dias
+- congresso de viena
+    - princípio do equilíbrio europeu
+    - princípio da legitimidade
+    - Santa Aliança (oposição da Inglaterra e EUA)
+
+
+
+
+
+
 - golpe 18 de brumário: Napoleão pressiona o governo Diretório a renunciar em seu favor
 - Napoleão como governante era conveniente pois era suportado tanto por Jacobinos quanto por Girondinos, sendo uma figura pacificadora
 

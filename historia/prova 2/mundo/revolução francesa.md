@@ -1,3 +1,25 @@
+- déficit fiscal
+- rei convoca Assembleia dos Notáveis, na qual 1° e 2° estado se recusam a pagar impostos
+- rei convoca Assembleia dos Estados Gerais
+- Juramento do Jogo da Péla
+- tomada da bastilha e O Grande Medo
+- Assembleia dos Estados Gerais se torna Assembleia Constituinte, com voto per capita
+    - estabelece a constituição de 1791
+    - abolição de provilégios feudais e do clero
+    - declaração dos direitos do homem e do cidadão
+- países vizinhos declaram guerra contra a rev.
+- rei e rainha tentam fugir da rev.
+- Assembleia Constituinte se divide em Jacobinos e Girondinos
+
+- governo inicialmente Girondino, mas logo em seguida Robespierre assume o poder e estabelece um extremismo revolucionário
+- contimento da revolta da Vendeia e outras, lei do máximo e estabelecimento de uma república constitucional
+- reação termidoriana
+- governo Diretório com nova constituição, porém enfraquecido por causa de conflitos internos e externos
+
+
+
+
+
 - frança estava separada em 3 estados:
 	- 1º estado: clero
 	- 2º estado: nobreza

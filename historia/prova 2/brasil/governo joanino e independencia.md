@@ -8,7 +8,7 @@
     - Reino unido a Portugal e Algarve
 - rev. pernambucana (república por 75 dias)
 - rev. constitucional do porto
-- dia do fico e o compra-se
+- dia do fico e o cumpra-se
 - convocação da assembleia constitucional
 - independência
 
