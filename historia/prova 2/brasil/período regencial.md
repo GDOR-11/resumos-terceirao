@@ -8,9 +8,7 @@
     - suspensão do poder moderador
 
 - cabanagem (pará): cabanos, expulsão dos portugueses e abolição da escravidão
-- balaiada (maranhão): preço do algodão
 - dos malês (bahia): tipo revolução do Haiti
-- sabinada (elitista; bahia): república até D. Pedro II
 - farroupilha (elitista; bahia): Gonçalves e Garibaldi
 
 
