@@ -1,65 +1,105 @@
 
-- o que estuda a biogeografia?
-	a constituição e dispersão dos biomas terrestres
+a biogeografia estuda a **constituição e dispersão dos biomas**
 
-- o que é um bioma?
-	- um bioma é um ambiente uniforme definido pela interação entre os elementos naturais (solo, hidrografia, relevo, clima, seres vivos, etc.)
+um domínio morfoclimático é um **ambiente uniforme** definido por fatores abióticos / edafoclimáticos
+um domínio morfoclimático é um **ambiente uniforme** definido por interações entre fatores bióticos e abióticos
 
-tundra: clima subpolar, temperaturas baixas e verões curtos
-taiga: coníferas
-floresta temperada: clima subtropical
-estepe: vegetação esparsa
-pradaria: ideal para gado; presença de tchernozion na rússia e ucrânia
+o Brasil possui 2 hotspots, mata atlântica e cerrado
+
+serra catarinense é polo de madeira, papel e celulose
+Lages, Costa e Pinto
+Klabin, exportadora de papel
+
+halófita: adaptadas a ambientes salinos
+tropófila: adaptadas a estações de chuva e seca bem definidas
+esclerófila: possuem folhas duras
+herbácea, arbustiva, arbórea, cactácea
+
+- ### Tundra
+	- clima subpolar, temperaturas baixas e verões curtos
+	- vegetação rasteira composta por musgos e líquens
+	- presença do pergelissolo / permafrost
+- ### Taiga, floresta de coníferas ou floresta boreal
+	- clima continental frio ou polar
+	- vegetação acicufoliada em forma de cone
+	- importante para a silvicultura de papel e celulose
+	- a escolha mais ecológia é o eucalipto, porém pinus é mais economicamente viável
+- ### Floresta temperada
+	- clima subtropical
+	- vegetação caducifoliada, geralmente alta
+	- originária de áreas com desenvolvimento industrial avançado, fazendo com que seja uma das vegetações mais devastadas
+- ### Estepe e pradaria
+	- estepe: clima subtropical continental (vegetação mais esparsa e ressecada)
+	- pradaria: clima subtropical oceânico
+	- vegetação herbácea pela baixa precipitação, pobreza do solo, etc.
+	- nas pradarias ucranianas e russas, há a presença de tchernozion
+	- ameaçadas pela criação de gado e pela arenização
+- ### Vegetação mediterrânea
+	- gramíneas e arbustos xeromórficos
+	- o cultivo de uva e azeitona ameaça essa vegetação por ter máxima produtividade no clima mediterrâneo
+- ### Savana
+	- o Brasil possui 2 savanas, sendo a Caatinga única ao brasil e o Cerrado não
+	- a caatinga é definida como uma savana-estepe
+	- clima tropical (sempre quente, estações de chuva e seca bem definidas)
+	- vegetação herbácea, arbustiva e arbórea, com algumas espécies xeromórficas
+	- solo pobre e ácido
+	- fogo é um fator natural, que em geral é prejudicial às árvores e favorável às herbáceas
+	- em regiões com várias queimadas, savanas tendem a parecer pradarias ou estepes, já em regiões com menos queimadas as savanas se aproximam de florestas tropicais
+- ### Floresta tropical / floresta equatorial
+	- vegetação latifoliada, perenifoliada, ombrófila e majoritariamente higrófila
+	- alta biodiversidade em solo pobre é permitida pela rápida reciclagem de biomassa
+	- já que a maioria nos nutrientes está encontrada na vegetação, o desmatamento pode levar a um processo de desertificação em casos extremos
+- ### Desertos quentes
+	- vegetação xerófila, especializada em armazenar água e minimizar evapotranspiração
+	- presença de cactáceas, arbustivas e herbáceas
 
 
-- o que é uma vegetação acicufoliada?
-	- folhas em forma de agulha
-- o que é uma vegetação ombrófila?
-	- necessita de proteção da radiação solar direta, pois é adaptada às sombras
-- o que é uma vegetação halófita?
-	- adaptadas à ambientes salinos
-- o que é uma vegetação tropófila?
-	- adaptadas à estações alternando entre clima úmido e seco
-- o que é uma vegetação caducifoliada, decídua ou estacional?
-	- folhas caem em estações mais frias ou secas, para economizar energia e água que seria desperdiçada na transpiração
-- o que é uma vegetação higrófila?
-	- adaptadas ao excesso de água
-- o que é uma vegetação perene?
-	- folhas permanentes
-- o que é uma vegetação latifoliada?
-	- folhas largas
-- o que é uma vegetação esclerófila?
-	- possuem folhas duras
-- o que é uma vegetação pneumatófora?
-	- realizam trocas gasosas com o ambiente pelo solo pobre em oxigênio
-- o que é uma vegetação xerófita?
-	- adaptadas à escassez de água
+domínio amazônico $\approx$ amazônia
+domínio da caatinga $\approx$ caatinga
+domínio do cerrado $\approx$ cerrado
+domínio da pradaria $\approx$ pampa
+**domínio dos mares de morros $\approx$ litoral da mata atlântica**
+**domínio das araucárias $\approx$ interior da mata atlântica**
+há uma faixa de transição entre a maioria dos domínios morfoclimáticos
 
-- o que é e onde se situa uma floresta boreal?
-	- taiga / floresta de coníferas (clima continental frio ou polar)
-- quais são as savanas brasileiras?
-	- caatinga e cerrado
-	- cerrado é o único bioma único ao Brasil
-- qual é mais fria, taiga ou tundra?
-	- tundra
-- qual a vegetação da tundra?
-	- rasteira, composta por musgos e liquens
-- qual a importância econômica da taiga?
-	- produção de papel e celulose a partir da silvicultura de pinus e eucalipto
-	- eucalipto é a melhor escolha para o meio ambiente, porém pinus é mais economicamente viável
-- qual a principal ameaça enfrentada pelas florestas temperadas?
-	- seu habitat natural é característico de regiões com alto desenvolvimento industrial e econômico, fazendo com que hoje em dia apenas uma fração das florestas nativas originais existam
-- qual o tipo de vegetação em florestas tropicais?
-	- caducifoliada, e muito alta
-	- parecida com a taiga do mine (a com podzol)
-- qual a diferença entre estepe e pradaria?
-	- estepe se encontra em clima tropical continental seco, pradaria em clima tropical oceânico
-- qual a vegetação predominante em estepe e pradaria?
-	- herbáceas / gramíneas, por causa da baixa precipitação e solo pobre
-- qual a vegetação predominante em vegetação mediterrânea?
-	- gramíneas e arbustos xerófilos
-- qual a principal ameaça enfrentada pela vegetação mediterrânea?
-	- o cultivo de lavouras de uva e azeitonas, que tem produtividade máxima no clima mediterrâneo
 
-o que é o pergelissolo?
-	pergelissolo, ou permafrost, é composto por terra, gelo e rochas permanentemente congeladas
+- ### Faixas de transição
+	- mata dos cocais: babaçu e carnaúba
+	- manguezais: áreas de encontro de rios com o mar
+		- vegetação halófita e pneumatófora
+	- restinga: formação vegetal paralela à praia, com sono arenoso e pobre
+	- complexo do pantanal
+		- clima tropical continental
+		- caracterizado por cheias
+		- $\approx80\%$ de preservação, rica biodiversidade
+		- pecuária extensiva e incêndios
+- ### Domínio Amazônico
+	- mata de terra firme, de várzea e de igapó (nunca alaga, alaga em cheias e sempre alagada)
+	- caaetê e caaigapó
+	- arco do desmatamento
+- ### Domínio dos Mares de Morros (mata atlântica)
+	- latifoliada, perenifoliada, higrófila
+	- heterogênea e densa
+	- mamelonar / coxilhas
+- ### Domínio das Araucárias (mata dos pinhais)
+	- taiga heterogênea ombrófila
+	- planalto meridional e terra roxa
+- ### Domínio do Cerrado
+	- presença de matas de galeria
+	- tropófilas: floresta invertida
+	- solo ácido
+	- caixa d'água do brasil (nascente das principais bacias brasileiras)
+	- relevo aproximadamente plano, ideal para agricultura
+	- presença de eclaves (regiões com vegetação cercadas por regiões sem vegetação)
+	- matas galerias
+- ### Domínio da Caatinga
+	- depressão sertaneja
+	- sempre quente, às vezes chove
+	- degradação pela criação de gado e cultivo de algodão
+	- rio são francisco é o único rio permanente
+	- transposição do rio são francisco
+		- eixo norte para o ceará, paraíba e rio grande do norte
+		- eixo sul para paraíba e pernambuco
+		- local de captação = bahia
+- ### Domínio da pradaria
+	- solo raso, pobre e ácido, sujeito a arenização por ação de erosão
