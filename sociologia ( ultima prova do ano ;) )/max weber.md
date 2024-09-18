@@ -1,5 +1,5 @@
 
-- ### pesquisa científica, juízo x juízo de valor, neutralidade axiológica e vocação científica x política
+- ### pesquisa científica, valor x juízo de valor, neutralidade axiológica e vocação científica x política
 	- em suas investigações sobre algo, as ciências partem da pergunta "o que causa isso?"
 	- Weber afirma que, como a realidade é muitas vezes complexa demais para existir uma relação pura de causalidade, o pesquisador deve escolher alguns aspectos da realidade nos quais ele focará, permitindo, assim, uma relação de causalidade
 	- essa escolha de aspectos depende dos valores / princípios do pesquisador

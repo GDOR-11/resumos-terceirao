@@ -4,6 +4,9 @@ a biogeografia estuda a **constituição e dispersão dos biomas**
 um domínio morfoclimático é um **ambiente uniforme** definido por fatores abióticos / edafoclimáticos
 um domínio morfoclimático é um **ambiente uniforme** definido por interações entre fatores bióticos e abióticos
 
+desertificação: diminuição da produtividade biológica de regiões áridas e semiáridas
+arenização: formação de areias a partir da erosão de solos de origem arenítica
+
 o Brasil possui 2 hotspots, mata atlântica e cerrado
 
 serra catarinense é polo de madeira, papel e celulose
