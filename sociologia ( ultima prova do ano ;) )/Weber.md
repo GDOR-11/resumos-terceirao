@@ -1,4 +1,8 @@
 
+convicção $\times$ responsabilidade
+relação social comunitária $\times$ associativa
+dominação carismática$\times$tradicional$\times$legal
+
 - ### pesquisa científica, valor x juízo de valor, neutralidade axiológica e vocação científica x política
 	- em suas investigações sobre algo, as ciências partem da pergunta "o que causa isso?"
 	- Weber afirma que, como a realidade é muitas vezes complexa demais para existir uma relação pura de causalidade, o pesquisador deve escolher alguns aspectos da realidade nos quais ele focará, permitindo, assim, uma relação de causalidade
@@ -17,7 +21,7 @@
 	- **AÇÃO SOCIAL** = ação realizada por um ou mais indivíduos, orientada a um ou mais outros indivíduos
 	- Weber classifica as ações sociais a partir de suas motivações, de maneira não excludente (uma ação pode corresponder a múltiplas categorias):
 	- **ação racional vinculada a finalidades**: motivada por algum objetivo
-	- **ação raiconal vinculada a valores**: motivada por algum valor
+	- **ação racional vinculada a valores**: motivada por algum valor
 	- **ação afetiva**: motivada por sentimentos
 	- **ação tradicional**: motivada pela força do hábito
 	

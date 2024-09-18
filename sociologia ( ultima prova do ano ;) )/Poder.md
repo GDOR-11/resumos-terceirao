@@ -1,11 +1,7 @@
 - poder é a capacidade de, direta ou indiretamente, produzir algum efeito em algo
 - em geral, na sociologia, poder é a capacidade de produzir algum efeito em outra pessoa
 
-- o poder se manifesta de 4 formas:
-	- força
-	- códigos (moral, tradição, cultura, etc.)
-	- mensagem (indústria de cultura)
-	- recompensa (relação de troca)
+- o poder se manifesta de 4 maneiras: força, códigos, mensagem, recompensa
 
 
 - ### Foucault

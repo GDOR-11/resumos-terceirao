@@ -13,8 +13,8 @@
 		- impõe regras de atuação do poder do soberano
 		- comunga com os valores do iluminismo
 	- hoje em dia, temos a democracia representativa, subclasse da democracia liberal
-	- a população elege representantes os quais representam as decisões do povo no rumo do Estado
-	- multipartidarismo
+		- a população elege representantes os quais representam as decisões do povo no rumo do Estado
+		- multipartidarismo
 
 
 - ### Organização do Estado
@@ -24,6 +24,8 @@
 		- legislativo: representa a vontade do povo, possuindo como função elaborar leis e fiscalizar o executivo
 		- judiciário: tem como papel julgar infrações às leis
 
+
+oposição e partidos; sociedade civil organizada; mídia e organização pública
 
 - são critérios necessários para a preservação da cidadania e da democracia:
 	- oposição política: é necessária a presença de competição justa entre grupos politicamente opostos
