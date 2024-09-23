@@ -1,11 +1,11 @@
 ao todo, existem 23 pares de cromossomos homólogos, 1 sexual e 22 autossômicos
 cromossomos homólogos possuem mesmo tamanho, mesma posição do centrômero e mesma sequência gênica
 
-gene é uma unidade fundamental de hereditariedade
+gene é uma **unidade fundamental de hereditariedade**
 o local em que um gene está no cromossomo é chamado de locus gênico
-um alelo descreve uma possível variante de um determinado gene
+um alelo descreve uma **possível variante** de um determinado gene
 
-genótipo é a composição alélica de um indivíduo (geralmente reduzida a um único locus)
+genótipo é a **composição alélica** de um indivíduo (geralmente reduzida a um único locus)
 o genótipo é composto por um par de alelos, um alelo para cada cromossomo homólogo
 genótipo homozigoto / puro: alelos iguais
 genótipo heterozigoto / híbrido: alelos diferentes
@@ -13,7 +13,7 @@ genótipo heterozigoto / híbrido: alelos diferentes
 fenótipo é uma característica detectável apresentada por um indivíduo, influenciada por seu genótipo e pelo ambiente
 
 1ª lei de mendel: uma característica é determinada por um par de fatores hereditários os quais se separam na formação de gametas
-1ª lei de mendel reescrita: fenótipos são determinados por alelos os quais se separam na formação de gametas
+1ª lei de mendel reescrita: fenótipos são determinados por **um par de alelos** os quais se **separam na formação de gametas**
 
 
 processo de mendel para herança homogênica com dominância completa:
@@ -44,7 +44,7 @@ convenções em heredogramas
 - **dominância incompleta**: a presença de um genótipo heterozigótio cria um fenótipo único (geralmente um meio termo entre os fenótipos homozigóticos)
 - **codominância**: a presença de um genótipo heterozigótico gera a expressão de ambos fenótipos monozigóticos
 - **pleiotropia**: um alelo determina mais de um fenótipo ao mesmo tempo
-- **expressividade variável**: um alelo pode se expressar de mútiplos jeitos diferentes
+- **EXPRESSIVIDADE variável**: um alelo pode se expressar de mútiplos jeitos diferentes
 - **penetrância incompleta**: um genótipo nem sempre causa a presença de um fenótipo
 
 albinismo: doença autossômica recessiva

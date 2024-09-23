@@ -14,11 +14,12 @@
 | sementes            | gimnospormas  |
 | flores e frutos     | angiospermas  |
 
-traqueófitas $\times$ atraqueófitas
-cormófitas $\times$ talófitas
-espermatófitas $\times$ criptógamas
-sifonógamas
+cormófitas
+assifonógamas
+fanerógamas
 antófitas
+criptógamas
+
 - 
 	- traqueófitas / vasculares apresentam vasos condutores (a partir de pteridófitas)
 	

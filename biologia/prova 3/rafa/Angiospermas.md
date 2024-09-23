@@ -35,6 +35,6 @@
 
 - eucotiledôneas (dois cotiledones na semente)
 	- nervura das folhas é ramificada
-	- feixes vasculares em formato de anel
+	- vasos condutores em formato de anel
 	- raíz pivotante
 	- tetrâmeras ou pentâmeras
