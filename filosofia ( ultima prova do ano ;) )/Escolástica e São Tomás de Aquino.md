@@ -1,0 +1,14 @@
+- cristianiza aristóteles, o qual ganha destaque pelo surgimento de traduções de livros dele
+- navalha de Ockham: a melhor explicação é sempre aquela mais simples, a que exige menor quantidade de entidades
+- a razão é um presente de deus, mas não é capaz de explicar tudo
+- acompanhada pelo surgimento das universidades (trivium = retórica; quadrivium = exatas + música)
+- acusada de discutir questões irrelevantes
+
+- 1º artigo: deus não é auto evidente
+- 2º artigo: sua existência pode ser demonstrada, sua essência não
+- 3º artigo: descreve as 5 vias que demonstram a existência de deus
+	- deus é o motor imóvel que iniciou o movimento no universo
+	- deus é a causa primeira que criou todos efeitos, uma vez que não existe efeito sem causa
+	- seres contingentes não podem surgir do nada, necessitando de um ser necessário (deus) para dar origem a eles
+	- o fato de algumas coisas serem mais perfeitas que outras (graus de perfeição) implica na existência de um ideal (deus) ao qual essas coisas estão sendo comparadas
+	- a existência de ordem no mundo implica na existência de um poder supremo que dá a todas as coisas uma causa final

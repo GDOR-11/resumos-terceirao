@@ -1,0 +1,7 @@
+- o tempo pertence ao homem, que deve usá-lo em próprio benefício
+- razão e fé são igualmente importantes
+- valores e talentos individuais são mais valorizados que as ações coletivas
+- antropocentrismo
+- o corpo é fonte de beleza, e não de pecado
+- restituição de valores clássicos gregos e romanos
+- o indivíduo tem a potência necessária para alcançar tudo que quiser
