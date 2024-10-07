@@ -1,3 +1,16 @@
+- Risorgimento
+- 2 partidos unificadores
+- sociedades secretas
+- Conde de Cavour e Giuseppe Garibaldi
+- questão romana nos estados Pontifícios
+
+
+
+
+
+
+
+
 - "Risorgimento": ideia que a Itália se unificaria naturalmente por conta da língua e cultura em comum
 - não acontece
 - surgimento de 2 partidos unificadores

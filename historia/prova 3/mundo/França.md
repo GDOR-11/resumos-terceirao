@@ -1,8 +1,9 @@
-- revoluções de 1820
-- revoluções de 1830
+- revoluções liberias de 1820
+- revoluções liberais de 1830
 - 3 dias gloriosos
 - Luís Filipe de Orleans
 - primavera dos povos
+- Napoleão III
 
 
 

@@ -1,3 +1,13 @@
+- MMM
+- conferência de berlim
+- Etiópia, Congo, África do Sul, Índia, China
+- Japão
+- EUA
+
+
+
+
+
 - domínio territorial, cultural, econômico e político de uma nação sobre outra
 - é feito em busca de 3 fatores: matéria prima, mão de obra barata e mercado consumidor
 - justificativa: "o fardo do homem branco"
@@ -8,11 +18,13 @@
 
 - a Etiópia foi o único país da África que resistiu às tentativas de dominação europeia
 
+
+- Congo
+	- pertencia ao rei da bélgica
+	- exploração de marfim e seringueiras
+	- extrema violência
+
 - Inglaterra: Cecil Rhodes
-	- Congo
-		- pertencia ao rei da bélgica
-		- exploração de marfim e seringueiras
-		- extrema violência
 	- África so Sul
 		- guerra dos bôeres: disputa entre Inglaterra e Holanda pelas minas de ouro e diamante récem descobertas
 	- Índia

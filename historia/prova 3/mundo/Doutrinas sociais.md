@@ -1,6 +1,7 @@
-- contexto
+- contexto (Cartismo)
 - socialismo utópico
 - socialismo científico
+- anarquismo
 
 
 
