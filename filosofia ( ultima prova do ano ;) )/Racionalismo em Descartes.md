@@ -1,4 +1,4 @@
-- pai da filosofia moderna
+dia- pai da filosofia moderna
 - de acordo com Descartes, a racionalidade está igualmente presente em todas pessoas, e os erros, enganos e falsidades se encontram no mal uso da razão
 
 - exemplo da cera: demonstra como o empirismo pode ser enganoso, ao mencionar sobre como um bloco de cera pode mudar de características quando aproximado do fogo
