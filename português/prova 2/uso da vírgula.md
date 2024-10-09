@@ -1,0 +1,40 @@
+- ### Período Simples
+	- separar elementos de mesma função sintática enumerados
+		- "\[...\], como, pox exemplo, São Paulo, Salvador, Manaus, Santa Catarina, entre outros."
+	- isolar termos repetidos
+		- "Tento, tento, tento, mas não consigo"
+	- isolar um termo deslocado em frases em ordem indireta
+		- "isso, eu vou fazer amanhã"
+	- isolar um adjunto averbial anteposto ou intercalado
+		- "em apenas um dia, eu colei todos os 20 adesivos"
+		- "eu, em apenas um dia, colei todos os 20 adesivos"
+	- isolar o vocativo
+		- "Dai, eu não entendi nenhuma parte do conteúdo"
+	- isolar o aposto explicativo
+		- "Floriano Peixoto, ex-presidente do Brasil, é quem deu nome à cidade de florianópolis"
+	- referência de local e data
+		- "Nova York, 11 de setembro de 2001"
+	- isolar orações coordenadas com conjunções repetidas (polissíndeto)
+		- "eu não estudei pontuação, nem regência, nem literatura"
+
+- ### Período Composto
+	- isolar termos explicativos (isto é, ou seja, por exemplo, etc.)
+		- "o conjunto dos naturais é um subconjunto dos racionais, ou seja, todo número natural também é racional"
+	
+	- separar orações coordenadas assindéticas
+		- "o edíficio pegando fogo, os funcionários correndo por suas vidas"
+	- separar orações coordenadas sindéticas
+		- algumas conjunções não requerem vírgula, algumas requerem
+		- "eu queria comprar chocolate, mas a minha mãe não deixou"
+	- conjunção "e"
+		- o "e" requer vírgula quando não tem valor aditivo, quando conecta orações de sujeitos diferentes ou quando aparece repetido
+		- "ele tentou, e ele não conseguiu"
+		- "ele fez o trabalho, e eu o apresentei"
+		- "eu estudei pontuação, e regência, e literatura"
+	
+	- separar orações subordinadas adverbiais antepostas ou intercaladas
+		- "se não souber o que dizer, diga que pensarás"
+		- "diga, se não souber o que dizer, que pensarás"
+	- separar orações subordinadas adjetivas explicativas
+	- marcar supressão de alguma palavra
+		- "eu tirei 7.5, e ele, 7.5 também"
