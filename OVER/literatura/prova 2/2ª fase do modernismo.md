@@ -26,7 +26,7 @@
 	
 	- #### Rachel de Queiroz: O Quinze
 		- título faz referência à seca de 1915
-		- cont a história de uma família nordestina que é forçada a se mudar para SP por causa da seca
+		- conta a história de uma família nordestina que é forçada a se mudar para SP por causa da seca
 	
 	- #### José Lins do Rego: O Menino do Engenho
 		- conta a história de 3 gerações de donos de engenho
@@ -37,7 +37,7 @@
 - ## poesia
 	- Jorge Lima, Murilo Mendes
 	
-	- ### Carlos Durmmond de Andrade
+	- ### Carlos Drummond de Andrade
 		- fase gauche / eu maior que o mundo
 			- individualismo, isolamento
 			- poesia centrada em si mesmo
