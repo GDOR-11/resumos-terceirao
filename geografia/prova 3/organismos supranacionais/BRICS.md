@@ -1,0 +1,12 @@
+- grupo de cooperação econômica
+- cúpulas: encontros de alto nível
+- termo BRIC surge em 2001 e oficializado em 2009 com a 1ª cúpula
+- a África so Sul entra na 3ª cúpula, em 2011
+- em 2024, entraram a Arábia Saudita, Emirados Árabes Unidos, Irã, Egito e Etiópia
+- novo banco de desenvolvimento ou banco do BRICS: alternativa ao Banco Mundial e ao FMI, criado na 6ª cúpula (sede em Xangai)
+	- financia investimentos
+- Acordo de Reserva Contingente (CRA): alternativa ao FMI
+	- alivia pressão sobre as moedas de cada país
+- hoje em dia, possui PIB maior que o G7
+
+- 2ª, 6ª e 11ª cúpulas no Brasil

@@ -1,0 +1,20 @@
+- pertence ao G4, G7, G8 e G20
+
+- palavras-chave
+	- xintoísmo
+		- respeito e culto aos antepassados, suas realizações, valores e tradições
+		- culto à natureza
+		- politeísmo
+	- ainus
+		- povo indígena japonês, hoje em dia limitado ao norte do país
+	- xoguns, xogunatos/daimios e samurais
+		- "senhores feudais", "feudos" e "nobres" do Japão entre os séculos XVII e XIX
+	- era Meiji
+		- período de transformações econômicas e sociopolíticas no Japão durante o século XIX por pressão dos EUA
+	- zaibatsus
+		- conglomerados industriais familiares
+- história:
+	- mantém comércio com o ocidente até o século XVII
+	- no século XIX, os EUA pressionam o Japão a realizar uma abertura comercial
+	- Industrialização via prussiana atravéz de Zaibatsus
+	- imperialismo: "a ásia para os asiáticos"

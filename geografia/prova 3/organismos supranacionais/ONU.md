@@ -1,0 +1,20 @@
+- assembleia geral, formada por todos países, recomenda uma ação
+- conselho de segurança da ONU decide se a ação recomendada pela assembleia geral deve ser tomada
+	- 5 membros permanentes: EUA, Inglatarra, Rússia, China e França (vencedores da 2ª guerra mundial)
+	- 10 membros rotativos (a cada 2 anos)
+- secretário-geral (António Guterres, engenheiro português) implementa a ação decidida pelo conselho de segurança
+- Conselho Econônimo e Social
+- Corte Penal Internacional e Corte Internacional de Justiça
+- forças de paz: exército que, geralmente, serve para monitorar cessar-fogo, retiramento de exércitos, etc., garantindo a paz num conflito
+- órgãos da ONU
+	- PNUD: mede IDH e desenvolvimento
+	- ACNUR: auxilia na gestão de movimentos migratórios
+	- UNICEF: garante os direitos da criança e do adolescente
+	- PNUMA: garante a preservação do meio ambiente
+- agências especializadas da ONU
+	- FAO: combate a fome e garante a nutrição apropriada e segurança alimentar das pessaos
+	- UNESCO: cooperação internacional no desenvolvimento da pesquisa e da cultura
+	- OMS: maximização da saúde de todas as pessoas do globo
+	- OMC: supervisão e liberalização do comércio internacional
+
+- Palestina é, junto com Santa Sé, um Estado não membro observador

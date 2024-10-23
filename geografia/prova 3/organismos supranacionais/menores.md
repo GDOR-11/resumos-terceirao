@@ -1,0 +1,11 @@
+- OCDE: organização para cooperação e desenvolvimento econômico
+- G4: exige a reforma do conselho de segurança da ONU
+	- Brasil, Alemanha, Japão e Índia
+- G7: sete países mais industrializados do mundo
+	- EUA, Alemanha, Japão, Inglaterra, Canadá, França e Itália
+	- era G8, até a Rússia ser expulsa por anexar a crimeia
+- G20: 19 maiores economias do mundo + união europeia
+	- mesmo contando com a UE, por algum motivo a Alamenha, França, Itália e Inglaterra também são membros independentes da UE
+	- presidenciado pelo lula
+	- nas reuniões, participam os presidentes dos bancos centrais dos países / organizações
+	- combatimento do protecionismo

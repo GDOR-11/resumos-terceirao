@@ -1,0 +1,7 @@
+- IRA (independência da Irlanda do Norte e a unificação da Irlanda)
+	- acordo de Belfast: IRA passam a lutar apenas através de meios políticos
+- ETA (independência do país basco $\ne$ catalunha)
+	- língua basca: diferente de qualquer outra língua europeia
+- FARC (forças armadas revolucionárias da colômbia; comunismo marxista-leninista)
+- Al Qaeda (requerem que os países ocidentais desocupem as áreas ricas em minerais do oriente médio)
+- Hezbolah (partido libanês islâmico xiita; contra Israel)

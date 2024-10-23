@@ -1,0 +1,9 @@
+- condições para ser um tigre asiático
+	- incentivos fiscais
+	- mão de obra barata, disciplinada e qualificada
+	- infraestrutura moderna
+	- industrialização recente
+	- economia competitiva
+	- organizações trabalhistas e ambientais pouco influentes
+- primeira geração (1970): Coreia do Sul, Taiwan, Hong Kong e singapura
+- segunda geração / novos tigres (1980 - 1990): Malásia, Tailândia, Indonésia, Filipinas, Camboja, Laos e Vietnã
