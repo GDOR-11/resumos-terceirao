@@ -1,0 +1,36 @@
+- ### folha
+	- eucotiledônias: pecíolo e lâmina foliar
+	- monocotiledônias: sem pecíolo, porém possuem bainha que envolve o caule
+	- simples ou composta
+	- modificações: insetívoras, brácteas (atrair polinizadores), gavinhas (sustento) e espinhos
+
+- ### caule
+	- sustentação, transporte de seiva e armazenamento de nutrientes
+	- gemas apicais e axilares, nós e entrenós
+	- aéreo, subterrâneo ou aquático
+	- eretos, rastejantes ou trepadores
+	- tipos de caule
+		- tronco, haste, colmo (bambu), estipe (sem ramificações)
+		- estolão (morango)
+		- rizoma (trios de bananeira)
+		- bulbo (caule é a cabeça do alho, com folhas, dentes do alho)
+		- tubérculo (o caule é o troço inteiro)
+		- cladódio (caule modificado em estrutura de folha)
+
+- ### raíz
+	- fixação, armazenamento e absorção e transporte de seiva bruta
+	- axial ou fasciculada
+	- morfologia
+		- região de ramificação ou suberosa (toda parte do caule que tem ramificações)
+		- região pilífera (logo após região lisa)
+		- região lisa (logo após meristema)
+		- coifa (escudinho na parte de baixo da raíz)
+	
+	- raíz grampiforme: se agarra à planta hospedeira como um grampo
+	- haustórios: penetra nos vasos condutores
+		- holoparasita suga seiva elaborada
+		- hemiparasita suga seiva bruta
+	- raíz tuberosa: armazena nutrientes
+	- raís escora: suporta planta de manguezal
+	- raíz tabular: suporta plantas normais
+	- raíz pneumatófora: possui células respiratórias
