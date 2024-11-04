@@ -7,13 +7,13 @@
 - Corte Penal Internacional e Corte Internacional de Justiça
 - forças de paz: exército que, geralmente, serve para monitorar cessar-fogo, retiramento de exércitos, etc., garantindo a paz num conflito
 - órgãos da ONU
-	- PNUD: mede IDH e desenvolvimento
+	- PNUD: PNU desenvolvimento
 	- ACNUR: auxilia na gestão de movimentos migratórios
-	- UNICEF: garante os direitos da criança e do adolescente
-	- PNUMA: garante a preservação do meio ambiente
+	- UNICEF: UNI criaça e filho
+	- PNUMA: PNU meio ambiente
 - agências especializadas da ONU
-	- FAO: combate a fome e garante a nutrição apropriada e segurança alimentar das pessaos
-	- UNESCO: cooperação internacional no desenvolvimento da pesquisa e da cultura
+	- FAO: FAOme
+	- UNESCO: pesquisa e cultura para a paz
 	- OMS: maximização da saúde de todas as pessoas do globo
 	- OMC: supervisão e liberalização do comércio internacional
 

@@ -1,3 +1,5 @@
+- vestfália, versalhes, carta das nacoes unidas, velha ordem vs. nova ordem
+
 - tratado de vestfália: tratado do século XVII, substitui a ordem mundial medieval, sendo o marco inicial das relações internacionais
 	- surgimento de um Estado não pertencente à religião
 	- equilíbrio de poder
