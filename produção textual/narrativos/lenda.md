@@ -1,0 +1,3 @@
+- linguagem de caráter oral
+- linguagem simples e envolvente
+- explica eventos ou tradições culturais

@@ -1,6 +1,5 @@
 - ### folha
-	- eucotiledônias: pecíolo e lâmina foliar
-	- monocotiledônias: sem pecíolo, porém possuem bainha que envolve o caule
+    - lâmina, pecíolo, bainha e estípulas
 	- simples ou composta
 	- modificações: insetívoras, brácteas (atrair polinizadores), gavinhas (sustento) e espinhos
 

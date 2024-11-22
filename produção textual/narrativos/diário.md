@@ -1,0 +1,3 @@
+- sempre em primeira pessoa
+- deve conter teor crítico
+- pode começar com o vocativo "meu diário"  (ou equivalentes, como "querido diário")
